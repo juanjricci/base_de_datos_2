@@ -1,0 +1,2042 @@
+forma,tipo,sub_tipo
+natural,Trastornos Intestinales,colera
+natural,Trastornos Intestinales,fiebres tifoidea y partifoidea
+natural,Trastornos Intestinales,salmonella
+natural,Trastornos Intestinales,shigelosis
+natural,Trastornos Intestinales,otras
+natural,Trastornos Intestinales,protozoarios
+natural,Trastornos Intestinales,amebiasis
+natural,Trastornos Intestinales,no clasificadas
+natural,Trastornos Intestinales,gastroenteritis y colitis de origen
+natural,Trastornos Intestinales,infeccioso no especificadas
+natural,Tuberculosis,tuberculosis confirmada 
+natural,Tuberculosis,tuberculosis no confirmada 
+natural,Tuberculosis,tuberculosis del sistema nervioso
+natural,Tuberculosis,tuberculosos de otros organos
+natural,Tuberculosis,tuberculosis miliar
+natural,Trastornos Pulmonares,peste
+natural,Trastornos Pulmonares,tularemia
+natural,Trastornos Pulmonares,carbunco
+natural,Enfermedad Zoonotica,muermo y melioidosis
+natural,Enfermedad Zoonotica,fiebre por mordedura de rata
+natural,Enfermedad Zoonotica,brucelosis
+natural,Enfermedad Zoonotica,Erisipeloide
+natural,Enfermedad Zoonotica,Leptospirosis
+natural,Enfermedad Zoonotica,otras
+natural,Enfermedad Micobacteriana,Listeriosis
+natural,Enfermedad Micobacteriana,lepra
+natural,Enfermedad Micobacteriana,otras micobacterianas
+natural,Tetanos,neonatal
+natural,Tetanos,obstetrico
+natural,Tetanos,otros
+natural,Sepsis,estreptococica
+natural,Sepsis,otras
+natural,Enfermedad Bacteriana,Actinomicosis
+natural,Enfermedad Bacteriana,Nocardiosis
+natural,Enfermedad Bacteriana,Erisipela
+natural,Enfermedad Bacteriana,Bartonelosis
+natural,Enfermedad Bacteriana,Otras enfermedades bacterianas no clasificadas en otra parte
+natural,Enfermedad Bacteriana,Infección bacteriana de sitio no especificado
+natural,Sifilis,Sífilis congénita
+natural,Sifilis,Sífilis precoz
+natural,Sifilis,Sífilis tardía
+natural,Sifilis,Otras sífilis y las no especificadas
+natural,Sifilis,Sífilis no venérea
+natural,Enfermedad de Trasmision Sexual,Infección gonocócica
+natural,Enfermedad de Trasmision Sexual,Linfogranuloma (venéreo) por clamidias
+natural,Enfermedad de Trasmision Sexual,Otras enfermedades de transmisión sexual debidas a clamidias
+natural,Enfermedad de Trasmision Sexual,Chancro blando
+natural,Enfermedad de Trasmision Sexual,Granuloma inguinal
+natural,Enfermedad de Trasmision Sexual,Tricomoniasis
+natural,Enfermedad de Trasmision Sexual,Infección anogenital debida a virus del herpes [herpes simple]
+natural,Enfermedad de Trasmision Sexual,Otras enfermedades de transmisión predominantemente sexual no clasificadas en otra parte
+natural,Enfermedad de Trasmision Sexual,Enfermedad de transmisión sexual no especificada
+natural,Enfermedad causada por Espiroquetas,Frambesia
+natural,Enfermedad causada por Espiroquetas,Pinta [carate]
+natural,Enfermedad causada por Espiroquetas,Fiebres recurrentes
+natural,Enfermedad causada por Espiroquetas,Otras infecciones causadas por espiroquetas
+natural,Clamidias,Infeccion debida a Chlamydia psittaci
+natural,Clamidias,Tracoma
+natural,Clamidias,Otras enfermedades causadas por clamidias
+natural,Rickettsiosis,Tifus
+natural,Rickettsiosis,Fiebre maculosa [rickettsiosis transmitida por garrapatas]
+natural,Rickettsiosis,Fiebre Q
+natural,Rickettsiosis,Otras rickettsiosis
+natural,Fiebre,Fiebre del dengue [dengue clásico]
+natural,Fiebre,Fiebre del dengue hemorrágico
+natural,Fiebre,Otras fiebres virales transmitidas por mosquitos
+natural,Fiebre,Otras fiebres virales transmitidas por artrópodos no clasificadas en otra parte
+natural,Fiebre,Fiebre viral transmitida por artrópodos no especificada
+natural,Fiebre,Fiebre amarilla
+natural,Fiebre,Fiebre hemorrágica por arenavirus
+natural,Fiebre,Otras fiebres virales hemorrágicas no clasificadas en otra parte
+natural,Fiebre,Fiebre viral hemorrágica no especificada
+natural,Fiebre,Fiebre de otro origen y de origen desconocido
+natural,Infecciones en la Piel,Infecciones herpética [herpes simple]
+natural,Infecciones en la Piel,Varicela
+natural,Infecciones en la Piel,Herpes zoster
+natural,Infecciones en la Piel,Viruela
+natural,Infecciones en la Piel,Viruela de los monos
+natural,Infecciones en la Piel,Sarampión
+natural,Infecciones en la Piel,Rubéola [sarampión alemán]
+natural,Infecciones en la Piel,Verrugas víricas
+natural,Infecciones en la Piel,Otras infeciones víricas caracterizadas por lesiones de la piel y de las membranas mucosas no clasificadas en otra parte
+natural,Infecciones en la Piel,Infección viral no especificada caracterizada por lesiones de la piel y de las membranas mucosas
+natural,Hepatitis,Hepatitis aguda tipo A
+natural,Hepatitis,Hepatitis aguda tipo B
+natural,Hepatitis,Otras hepatitis virales agudas
+natural,Hepatitis,Hepatitis viral crónica
+natural,Hepatitis,Hepatitis viral sin otra especificación
+natural,VIH,Enfermedad por virus de la inmunodeficiencia humana [VIH] resultante en enfermedades infecciosas y parasitarias
+natural,VIH,Enfermedad por virus de la inmunodeficiencia humana [VIH] resultante  en tumores malignos
+natural,VIH,Enfermedad por virus de la inmunodeficiencia humana [VIH] resultante en otras enfermedades especificadas
+natural,VIH,Enfermedad por virus de la inmunodeficiencia humana [VIH] resultante en otras afecciones
+natural,VIH,Enfermedad por virus de la inmunodeficiencia humana [VIH] sin otra especificación
+natural,Otras enfermedades virales,Enfermedad debida a virus citomegálico
+natural,Otras enfermedades virales,Parotiditis infecciosa
+natural,Otras enfermedades virales,Mononucleosis infecciosa
+natural,Otras enfermedades virales,Conjuntivitis viral
+natural,Otras enfermedades virales,Otras enfermedades virales no clasificadas en otra parte
+natural,Otras enfermedades virales,Infección viral de sitio no especificado
+natural,Otras enfermedades virales,Enfermedad por virus Zika
+natural,Micosis (hongos),Dermatofitosis
+natural,Micosis (hongos),Otras micosis superficiales
+natural,Micosis (hongos),Candidiasis
+natural,Micosis (hongos),Coccidioidomicosis
+natural,Micosis (hongos),Histoplasmosis
+natural,Micosis (hongos),Blastomicosis
+natural,Micosis (hongos),Paracoccidioidomicosis
+natural,Micosis (hongos),Esporotricosis
+natural,Micosis (hongos),Cromomicosis y absceso feomicótico
+natural,Micosis (hongos),Aspergilosis
+natural,Micosis (hongos),Criptococosis
+natural,Micosis (hongos),Cigomicosis
+natural,Micosis (hongos),Micetoma
+natural,Micosis (hongos),Otras micosis no clasificadas en otra parte
+natural,Micosis (hongos),Micosis no especificada
+natural,Paludismo (malaria),Paludismo [malaria] debido a Plasmodium falciparum
+natural,Paludismo (malaria),Paludismo [malaria] debido a Plasmodium vivax
+natural,Paludismo (malaria),Paludismo [malaria] debido a Plasmodium malariae
+natural,Paludismo (malaria),Otro paludismo [malaria] confirmado parasitológicamente
+natural,Paludismo (malaria),Paludismo [malaria] no especificado
+natural,Enfermedad debido a Protozarios,Leishmaniasis
+natural,Enfermedad debido a Protozarios,Tripanosomiasis africana
+natural,Enfermedad debido a Protozarios,Enfermedad de Chagas
+natural,Enfermedad debido a Protozarios,Toxoplasmosis
+natural,Enfermedad debido a Protozarios,Neumocistosis
+natural,Enfermedad debido a Protozarios,Otras enfermedades debidas a protozoarios no clasificadas en otra parte
+natural,Enfermedad debido a Protozarios,Enfermedad debida a protozoarios no especificada
+natural,Enfermedad debido a Trematodos,Esquistosomiasis [bilharziasis]
+natural,Enfermedad debido a Trematodos,Otras infecciones debidas a trematodos
+natural,Enfermedad debido a Cestodos,Equinococosis
+natural,Enfermedad debido a Cestodos,Teniasis
+natural,Enfermedad debido a Cestodos,Cisticercosis
+natural,Enfermedad debido a Cestodos,Difilobotriasis y esparganosis
+natural,Enfermedad debido a Cestodos,Otras infecciones debidas a cestodos
+natural,Infestacion,Dracontiasis
+natural,Infestacion,Oncocercosis
+natural,Infestacion,Filariasis
+natural,Infestacion,Triquinosis
+natural,Infestacion,Anquilostomiasis y necatoriasis
+natural,Infestacion,Ascariasis
+natural,Infestacion,Estrongiloidiasis
+natural,Infestacion,Tricuriasis
+natural,Infestacion,Enterobiasis
+natural,Infestacion,Otras helmintiasis intestinales no clasificadas en otra parte
+natural,Infestacion,Parasitosis intestinal sin otra especificación
+natural,Infestacion,Otros helmintiasis
+natural,Infestacion,Pediculosis y phthiriasis
+natural,Infestacion,Escabiosis
+natural,Infestacion,Miasis
+natural,Infestacion,Otras infestaciones
+natural,Infestacion,Enfermedad parasitaria no especificada
+natural,Secuelas,Secuelas de tuberculosis
+natural,Secuelas,Secuelas de poliomielitis
+natural,Secuelas,Secuelas de lepra
+natural,Secuelas,Secuelas de otras enfermedades infecciosas y parasitarias de los no especificadas
+natural,Secuelas,Estreptococos y estafilococos como causa de enfermedades clasificadas en otros capítulos
+natural,Secuelas,Otros agentes bacterianos especificados como causa de enfermedades clasificadas en otros capítulos
+natural,Secuelas,Agentes virales como causa de enfermedades clasificadas en otros capítulos
+natural,Secuelas,Otros agentes infecciosos especificados como causa de enfermedades clasificadas en otros capítulos
+natural,Secuelas,Otras enfermedades infecciosas y las no especificadas
+natural,Anemias,Anemias por deficiencia de hierro
+natural,Anemias,Anemia por deficiencia de vitamina B12
+natural,Anemias,Anemia por deficiencia de folatos
+natural,Anemias,Otras anemias nutricionales
+natural,Anemias,Anemia debida a trastornos enzimáticos
+natural,Anemias,Talasemia
+natural,Anemias,Trastornos falciformes
+natural,Anemias,Otras anemias hemolíticas hereditarias
+natural,Anemias,Anemia hemolítica adquirida
+natural,Anemias,Aplasia adquirida exclusiva de la serie roja [eritroblastopenia]
+natural,Anemias,Otras anemias aplásticas
+natural,Anemias,Anemia posthemorrágica aguda
+natural,Anemias,Anemia en enfermedades crónicas clasificadas en otra parte
+natural,Anemias,Otras anemias
+natural,Tumor o Cancer,Tumor maligno del labio
+natural,Tumor o Cancer,Tumor maligno de la base de la lengua
+natural,Tumor o Cancer,Tumor maligno de otras partes y de las no especificadas de la lengua
+natural,Tumor o Cancer,Tumor maligno de la encía
+natural,Tumor o Cancer,Tumor maligno del piso de la boca
+natural,Tumor o Cancer,Tumor maligno del paladar
+natural,Tumor o Cancer,Tumor maligno de otras partes y de las no especificadas de la boca
+natural,Tumor o Cancer,Tumor maligno de la glándula parótida
+natural,Tumor o Cancer,Tumor maligno de otras glándulas salivales mayores y de las no especificadas
+natural,Tumor o Cancer,Tumor maligno de la amígdala
+natural,Tumor o Cancer,Tumor maligno de la orofaringe
+natural,Tumor o Cancer,Tumor maligno de la nasofaringe
+natural,Tumor o Cancer,Tumor maligno del seno piriforme
+natural,Tumor o Cancer,Tumor maligno de la hipofaringe
+natural,Tumor o Cancer,Tumor maligno de otros sitios y de los mal definidos del labio de la cavidad bucal y de la faringe
+natural,Tumor o Cancer,Tumor maligno del esófago
+natural,Tumor o Cancer,Tumor maligno del estómago
+natural,Tumor o Cancer,Tumor maligno del intestino delgado
+natural,Tumor o Cancer,Tumor maligno del colon
+natural,Tumor o Cancer,Tumor maligno de la unión rectosigmoidea
+natural,Tumor o Cancer,Tumor maligno del recto
+natural,Tumor o Cancer,Tumor maligno del ano y del conducto anal
+natural,Tumor o Cancer,Tumor maligno del hígado y de las vías biliares intrahepáticas
+natural,Tumor o Cancer,Tumor maligno de la vesícula biliar
+natural,Tumor o Cancer,Tumor maligno de otras partes y de las no especificadas de las vías biliares
+natural,Tumor o Cancer,Tumor maligno del páncreas
+natural,Tumor o Cancer,Tumor maligno de otros sitios y de los mal definidos de los órganos digestivos
+natural,Tumor o Cancer,Tumor maligno de las fosas nasales y del oído medio
+natural,Tumor o Cancer,Tumor maligno de los senos paranasales
+natural,Tumor o Cancer,Tumor maligno de la laringe
+natural,Tumor o Cancer,Tumor maligno de la tráquea
+natural,Tumor o Cancer,Tumor maligno de los bronquios y del pulmón
+natural,Tumor o Cancer,Tumor maligno del timo
+natural,Tumor o Cancer,Tumor maligno del corazón del mediastino y de la pleura
+natural,Tumor o Cancer,Tumor maligno de otros sitios y de los mal definidos del sistema respiratorio y de los órganos intratorácicos
+natural,Tumor o Cancer,Tumor maligno de los huesos y de los cartílagos articulares de los miembros
+natural,Tumor o Cancer,Tumor maligno de los huesos y de los cartílagos articulares de otros sitios y de sitios no especificados
+natural,Tumor o Cancer,Melanoma maligno de la piel
+natural,Tumor o Cancer,Otros tumores malignos de la piel
+natural,Tumor o Cancer,Mesotelioma
+natural,Tumor o Cancer,Sarcoma de Kaposi
+natural,Tumor o Cancer,Tumor maligno de los nervios periféricos y del sistema nervioso autónomo
+natural,Tumor o Cancer,Tumor maligno del peritoneo y del retroperitoneo
+natural,Tumor o Cancer,Tumor maligno de otros tejidos conjuntivos y de tejidos blandos
+natural,Tumor o Cancer,Tumor maligno de la mama
+natural,Tumor o Cancer,Tumor maligno de la vulva
+natural,Tumor o Cancer,Tumor maligno de la vagina
+natural,Tumor o Cancer,Tumor maligno del cuello del útero
+natural,Tumor o Cancer,Tumor maligno del cuerpo del útero
+natural,Tumor o Cancer,Tumor maligno del útero parte no especificada
+natural,Tumor o Cancer,Tumor maligno del ovario
+natural,Tumor o Cancer,Tumor maligno de otros órganos genitales femeninos y de los no especificados
+natural,Tumor o Cancer,Tumor maligno de la placenta
+natural,Tumor o Cancer,Tumor maligno del pene
+natural,Tumor o Cancer,Tumor maligno de la próstata
+natural,Tumor o Cancer,Tumor maligno del testículo
+natural,Tumor o Cancer,Tumor maligno de otros órganos genitales maculinos y de los no especificados
+natural,Tumor o Cancer,Tumor maligno del riñón excepto de la pelvis renal
+natural,Tumor o Cancer,Tumor maligno de la pelvis renal
+natural,Tumor o Cancer,Tumor maligno del uréter
+natural,Tumor o Cancer,Tumor maligno de la vejiga urinaria
+natural,Tumor o Cancer,Tumor maligno de otros óganos urinarios y de los no especificados
+natural,Tumor o Cancer,Tumor maligno del ojo y sus anexos
+natural,Tumor o Cancer,Tumor maligno de las meninges
+natural,Tumor o Cancer,Tumor maligno del encéfalo
+natural,Tumor o Cancer,Tumor maligno de la médula espinal de los nervios craneales y de otras partes del sistema nervioso central
+natural,Tumor o Cancer,Tumor maligno de la glándula tiroides
+natural,Tumor o Cancer,Tumor maligno de la glándula suprarrenal
+natural,Tumor o Cancer,Tumor maligno de otras glándulas endocrinas y de estructuras afines
+natural,Tumor o Cancer,Tumor maligno de otros sitios y de los sitios mal definidos
+natural,Tumor o Cancer,Tumor maligno secundario y el no especificado de los ganglios linfáticos
+natural,Tumor o Cancer,Tumor maligno secundario de los órganos respiratorios y digestivos
+natural,Tumor o Cancer,Tumor maligno secundario de otros sitios y de sitios no especificados
+natural,Tumor o Cancer,Tumor maligno de sitios no especificados
+natural,Tumor o Cancer,Linfoma de Hodgkin
+natural,Tumor o Cancer,Linfoma folicular
+natural,Tumor o Cancer,Linfoma no folicular
+natural,Tumor o Cancer,Linfomas de células T/NK maduras
+natural,Tumor o Cancer,Linfoma no Hodgkin de otro tipo y el no especificado
+natural,Tumor o Cancer,Otros tipos especificados de linfoma de células T/NK
+natural,Tumor o Cancer,Otros linfomas de células B [enfermedades inmunoproliferativas malignas]
+natural,Tumor o Cancer,Mieloma múltiple y tumores malignos de células plasmáticas
+natural,Tumor o Cancer,Leucemia linfoide
+natural,Tumor o Cancer,Leucemia mieloide
+natural,Tumor o Cancer,Leucemia monocítica
+natural,Tumor o Cancer,Otras leucemias de tipo celular especificado
+natural,Tumor o Cancer,Leucemia de células de tipo no especificado
+natural,Tumor o Cancer,Otros tumores malignos y los no especificados del tejido linfático de los órganos hematopoyéticos y de tejidos afines
+natural,Tumor o Cancer,Tumores malignos (primarios) de sitios múltiples independientes
+natural,Tumor o Cancer,Carcinoma in situ de la cavidad bucal del esófago y del estómago
+natural,Tumor o Cancer,Carcinoma in situ de otros órganos digestivos y de los no especificados
+natural,Tumor o Cancer,Carcinoma in situ del sistema respiratorio y del oído medio
+natural,Tumor o Cancer,Melanoma in situ
+natural,Tumor o Cancer,Carcinoma in situ de la piel
+natural,Tumor o Cancer,Carcinoma in situ de la mama
+natural,Tumor o Cancer,Carcinoma in situ del cuello del útero
+natural,Tumor o Cancer,Carcinoma in situ de otros órganos genitales y de los no especificados
+natural,Tumor o Cancer,Carcinoma in situ de otros sitios y de los no especificados
+natural,Tumor o Cancer,Tumor benigno de la boca y de la faringe
+natural,Tumor o Cancer,Tumor benigno de las glándulas salivales mayores
+natural,Tumor o Cancer,Tumor benigno del colon del recto del conducto anal y del ano
+natural,Tumor o Cancer,Tumor benigno de otras partes y de las mal definidas del sistema digestivo
+natural,Tumor o Cancer,Tumor benigno del oído medio y del sistema respiratorio
+natural,Tumor o Cancer,Tumor benigno de otros órganos intratorácicos y de los no especificados
+natural,Tumor o Cancer,Tumor benigno del hueso y del cartílago articular
+natural,Tumor o Cancer,Tumores benignos lipomatosos
+natural,Tumor o Cancer,Hemangioma y linfangioma de cualquier sitio
+natural,Tumor o Cancer,Tumores benignos del tejido mesotelial
+natural,Tumor o Cancer,Tumor benigno del tejido blando del peritoneo y del retroperitoneo
+natural,Tumor o Cancer,Otros tumores benignos del tejido conjuntivo y de los tejidos blandos
+natural,Tumor o Cancer,Nevo melanocítico
+natural,Tumor o Cancer,Otros tumores benignos de la piel
+natural,Tumor o Cancer,Tumor benigno de la mama
+natural,Tumor o Cancer,Leiomioma del útero
+natural,Tumor o Cancer,Otros tumores benignos del útero
+natural,Tumor o Cancer,Tumor benigno del ovario
+natural,Tumor o Cancer,Tumor benigno de otros órganos genitales femeninos y de los no especificados
+natural,Tumor o Cancer,Tumor benigno de los órganos genitales masculinos
+natural,Tumor o Cancer,Tumor benigno de los órganos urinarios
+natural,Tumor o Cancer,Tumor benigno del ojo y sus anexos
+natural,Tumor o Cancer,Tumores benignos de las meninges
+natural,Tumor o Cancer,Tumor benigno del encéfalo y de otras partes del sistema nervioso central
+natural,Tumor o Cancer,Tumor benigno de la glándula tiroides
+natural,Tumor o Cancer,Tumor benigno de otras glándulas endocrinas y de las no especificadas
+natural,Tumor o Cancer,Tumor benigno de otros sitios y de los no especificados
+natural,Tumor o Cancer,Tumor de comportamiento incierto o desconocido de la cavidad bucal y de los órganos digestivos
+natural,Tumor o Cancer,Tumor de comportamiento incierto o desconocido del oído medio y de los órganos respiratorios e intratorácicos
+natural,Tumor o Cancer,Tumor de comportamiento incierto o desconocido de los órganos genitales femeninos
+natural,Tumor o Cancer,Tumor de comportamiento incierto o desconocido de los órganos genitales masculinos
+natural,Tumor o Cancer,Tumor de comportamiento incierto o desconocido de los órganos urinarios
+natural,Tumor o Cancer,Tumor de comportamiento incierto o desconocido de las meninges
+natural,Tumor o Cancer,Tumor de comportamiento incierto o desconocido del encéfalo y del sistema nervioso central
+natural,Tumor o Cancer,Tumor de comportamiento incierto o desconocido de las glándulas endocrinas
+natural,Tumor o Cancer,Policitemia vera
+natural,Tumor o Cancer,Síndromes mielodisplásicos
+natural,Tumor o Cancer,Otros tumores de comportamiento incierto o desconocido del tejido linfático de los órganos hematopoyéticos y de tejidos afines
+natural,Tumor o Cancer,Tumor de comportamiento incierto o desconocido de otros sitios y de los no especificados
+natural,Deficiencias y Trastornos de la Sangre,Coagulación intravascular diseminada [síndrome de desfibrinación]
+natural,Deficiencias y Trastornos de la Sangre,Deficiencia hereditaria del factor VIII
+natural,Deficiencias y Trastornos de la Sangre,Deficiencia hereditaria del factor IX
+natural,Deficiencias y Trastornos de la Sangre,Otros defectos de la coagulación
+natural,Deficiencias y Trastornos de la Sangre,Púrpura y otras afecciones hemorrágicas
+natural,Deficiencias y Trastornos de la Sangre,Agranulocitosis
+natural,Deficiencias y Trastornos de la Sangre,Trastornos funcionales de los polimorfonucleares neutrófilos
+natural,Deficiencias y Trastornos de la Sangre,Otros trastornos de los leucocitos
+natural,Deficiencias y Trastornos de la Sangre,Enfermedades del bazo
+natural,Deficiencias y Trastornos de la Sangre,Metahemoglobinemia
+natural,Deficiencias y Trastornos de la Sangre,Otras enfermedades de la sangre y de los órganos hematopoyéticos
+natural,Deficiencias y Trastornos de la Sangre,Otras enfermedades especificadas con participación deL tejido linforreticular y del tejido reticulohistiocítico
+natural,Deficiencias y Trastornos de la Sangre,Otros trastornos de la sangre y de los órganos hematopoyéticos en enfermedades clasificadas en otra parte
+natural,Inmunodeficiencias,Inmunodeficiencia con predominio de defectos de los anticuerpos
+natural,Inmunodeficiencias,Inmunodeficiencias combinadas
+natural,Inmunodeficiencias,Inmunodeficiencia asociada con otros defectos mayores
+natural,Inmunodeficiencias,Inmunodeficiencia variable común
+natural,Inmunodeficiencias,Otras inmunodeficiencias
+natural,Inmunodeficiencias,Sarcoidosis
+natural,Inmunodeficiencias,Otros trastornos que afectan el mecanismo de la inmunidad no clasificados en otra parte
+natural,Trastornos Tiroideos,Síndrome congénito de deficiencia de yodo
+natural,Trastornos Tiroideos,Trastornos tiroideos vinculados a deficiencia de yodo y afecciones relacionadas
+natural,Trastornos Tiroideos,Hipotiroidismo subclínico por deficiencia de yodo
+natural,Trastornos Tiroideos,Otros hipotiroidismos
+natural,Trastornos Tiroideos,Otros bocios no tóxicos
+natural,Trastornos Tiroideos,Tirotoxicosis [hipertiroidismo]
+natural,Trastornos Tiroideos,Tiroiditis
+natural,Trastornos Tiroideos,Otros trastornos tiroideos
+natural,Diabetes o Enfermedad Pancreatica,Diabetes mellitus insulinodependiente
+natural,Diabetes o Enfermedad Pancreatica,Diabetes mellitus no insulinodependiente
+natural,Diabetes o Enfermedad Pancreatica,Diabetes mellitus asociada con desnutrición
+natural,Diabetes o Enfermedad Pancreatica,Otras diabetes mellitus especificadas
+natural,Diabetes o Enfermedad Pancreatica,Diabetes mellitus no especificada
+natural,Diabetes o Enfermedad Pancreatica,Coma hipoglicémico no diabético
+natural,Diabetes o Enfermedad Pancreatica,Otros trastornos de la secreción interna del páncreas
+natural,Enfermedad de la glandula Paratiroides,Hipoparatiroidismo
+natural,Enfermedad de la glandula Paratiroides,Hiperparatiroidismo y otros trastornos de la glándula paratiroides
+natural,Enfermedad de la glandula Hipofisis,Hiperfunción de la glándula hipófisis
+natural,Enfermedad de la glandula Hipofisis,Hipofunción y otros trastornos de la glándula hipófisis
+natural,Enfermedad de la glandula Suprarrenal,Síndrome de Cushing
+natural,Enfermedad de la glandula Suprarrenal,Trastornos adrenogenitales
+natural,Enfermedad de la glandula Suprarrenal,Hiperaldosteronismo
+natural,Enfermedad de la glandula Suprarrenal,Otros trastornos  de la glándula suprarrenal
+natural,Trastornos de la Pubertad,Disfunción ovárica
+natural,Trastornos de la Pubertad,Disfunción testicular
+natural,Trastornos de la Pubertad,Trastornos de la pubertad no clasificados en otra parte
+natural,Trastornos Endocrinos,Disfunción poliglandular
+natural,Trastornos Endocrinos,Enfermedades del timo
+natural,Trastornos Endocrinos,Otros trastornos endocrinos
+natural,Trastornos Endocrinos,Trastornos endocrinos en enfermedades clasificadas en otra parte
+natural,Trastornos Nutricionales o Metabolicos,Kwashiorkor
+natural,Trastornos Nutricionales o Metabolicos,Marasmo nutricional
+natural,Trastornos Nutricionales o Metabolicos,Kwashiorkor marasmático
+natural,Trastornos Nutricionales o Metabolicos,Desnutrición proteicocalórica severa no especificada
+natural,Trastornos Nutricionales o Metabolicos,Desnutrición proteicocalórica de grado moderado y leve
+natural,Trastornos Nutricionales o Metabolicos,Retardo del desarrollo debido a desnutrición proteicocalórica
+natural,Trastornos Nutricionales o Metabolicos,Desnutrición proteicocalórica no especificada
+natural,Trastornos Nutricionales o Metabolicos,Deficiencia de vitamina A
+natural,Trastornos Nutricionales o Metabolicos,Deficiencia de tiamina
+natural,Trastornos Nutricionales o Metabolicos,Deficiencia de niacina [pelagra]
+natural,Trastornos Nutricionales o Metabolicos,Deficiencias de otras vitaminas del grupo B
+natural,Trastornos Nutricionales o Metabolicos,Deficiencia de ácido ascórbico
+natural,Trastornos Nutricionales o Metabolicos,Deficiencia de vitamina D
+natural,Trastornos Nutricionales o Metabolicos,Otras deficiencias de vitaminas
+natural,Trastornos Nutricionales o Metabolicos,Deficiencia dietética de calcio
+natural,Trastornos Nutricionales o Metabolicos,Deficiencia dietética de selenio
+natural,Trastornos Nutricionales o Metabolicos,Deficiencia dietética de zinc
+natural,Trastornos Nutricionales o Metabolicos,Deficiencias de otros elementos nutricionales
+natural,Trastornos Nutricionales o Metabolicos,Otras deficiencias nutricionales
+natural,Trastornos Nutricionales o Metabolicos,Secuelas de la desnutrición y de otras deficiencias nutricionales
+natural,Trastornos Nutricionales o Metabolicos,Adiposidad localizada
+natural,Trastornos Nutricionales o Metabolicos,Obesidad
+natural,Trastornos Nutricionales o Metabolicos,Otros tipos de hiperalimentación
+natural,Trastornos Nutricionales o Metabolicos,Secuelas de hiperalimentación
+natural,Trastornos Nutricionales o Metabolicos,Trastornos del metabolismo de los aminoácidos aromáticos
+natural,Trastornos Nutricionales o Metabolicos,Trastornos del metabolismo de los aminoácidos de cadena ramificada y de los ácidos grasos
+natural,Trastornos Nutricionales o Metabolicos,Otros trastornos del metabolismo de los aminoácidos
+natural,Trastornos Nutricionales o Metabolicos,Intolerancia a la lactosa
+natural,Trastornos Nutricionales o Metabolicos,Otros trastornos del metabolismo de los carbohidratos
+natural,Trastornos Nutricionales o Metabolicos,Trastornos del metabolismo de los esfingolípidos y otros trastornos por almacenamiento de lípidos
+natural,Trastornos Nutricionales o Metabolicos,Trastornos del metabolismo de los glucosaminoglicanos
+natural,Trastornos Nutricionales o Metabolicos,Trastornos del metabolismo de las glucoproteínas
+natural,Trastornos Nutricionales o Metabolicos,Trastornos del metabolismo de las lipoproteínas y otras lipidemias
+natural,Trastornos Nutricionales o Metabolicos,Trastornos del metabolismo de las purinas y de las pirimidinas
+natural,Trastornos Nutricionales o Metabolicos,Trastornos del metabolismo de las porfirinas y de la bilirrubina
+natural,Trastornos Nutricionales o Metabolicos,Trastornos del metabolismo de los minerales
+natural,Trastornos Nutricionales o Metabolicos,Fibrosis quística
+natural,Trastornos Nutricionales o Metabolicos,Amiloidosis
+natural,Trastornos Nutricionales o Metabolicos,Depleción del volumen
+natural,Trastornos Nutricionales o Metabolicos,Otros trastornos de los líquidos de los electrólitos y del equilibrio ácido-básico
+natural,Trastornos Nutricionales o Metabolicos,Otros trastornos metabólicos
+natural,Trastornos Nutricionales o Metabolicos,Trastornos endocrinos y metabólicos consecutivos a procedimientos no clasificados en otra parte
+natural,Trastornos Nutricionales o Metabolicos,Trastornos nutricionales y metabólicos en enfermedades clasificadas en otra parte
+natural,Trastornos Mentales o Psicologicos,Demencia en la enfermedad de Alzheimer
+natural,Trastornos Mentales o Psicologicos,Demencia vascular
+natural,Trastornos Mentales o Psicologicos,Demencia en otras enfermedades clasificadas en otra parte
+natural,Trastornos Mentales o Psicologicos,Demencia  no especificada
+natural,Trastornos Mentales o Psicologicos,Síndrome amnésico orgánico no inducido por alcohol o por otras sustancias psicoactivas
+natural,Trastornos Mentales o Psicologicos,Delirio no inducido por alcohol o por otras sustancias psicoactivas
+natural,Trastornos Mentales o Psicologicos,Otros trastornos mentales debidos a lesión y disfunción cerebral y a enfermedad física
+natural,Trastornos Mentales o Psicologicos,Trastronos de la personalidad y del comportamiento debidos a enfermedad lesión o disfunción cerebral
+natural,Trastornos Mentales o Psicologicos,Trastorno mental orgánico o sintomático no especificado
+natural,Trastornos Mentales o Psicologicos,Trastornos mentales y del comportamiento debidos al uso de alcohol
+natural,Trastornos Mentales o Psicologicos,Trastornos mentales y del comportamiento debidos al uso de opiáceos
+natural,Trastornos Mentales o Psicologicos,Trastornos mentales y del comportamiento debidos al uso de cannabinoides
+natural,Trastornos Mentales o Psicologicos,Trastornos mentales y del comportamiento debidos al uso de sedantes  o hipnóticos
+natural,Trastornos Mentales o Psicologicos,Trastornos mentales y del comportamiento debidos al uso de cocaína
+natural,Trastornos Mentales o Psicologicos,Trastornos mentales y del comportamiento debidos al uso de otros estimilantes incluida la cafeína
+natural,Trastornos Mentales o Psicologicos,Trastornos mentales y del comportamiento debidos al uso de alucinógenos
+natural,Trastornos Mentales o Psicologicos,Trastornos mentales y del comportamiento debidos al uso de tabaco
+natural,Trastornos Mentales o Psicologicos,Trastornos mentales y del comportamiento debidos al uso de disolventes volátiles
+natural,Trastornos Mentales o Psicologicos,Trastornos mentales y del comportamiento debidos al uso de múltiples drogas y al uso de otras sustancias psicoactivas
+natural,Trastornos Mentales o Psicologicos,Esquizofrenia
+natural,Trastornos Mentales o Psicologicos,Trastorno esquizotípico
+natural,Trastornos Mentales o Psicologicos,Trastornos delirantes persistentes
+natural,Trastornos Mentales o Psicologicos,Trastornos psicóticos agudos y transitorios
+natural,Trastornos Mentales o Psicologicos,Trastorno delirante inducido
+natural,Trastornos Mentales o Psicologicos,Trastornos esquizoafectivos
+natural,Trastornos Mentales o Psicologicos,Otros trastornos psicóticos  de origen no orgánico
+natural,Trastornos Mentales o Psicologicos,Psicosis de origen no orgánico no especificada
+natural,Trastornos Mentales o Psicologicos,Episodio maníaco
+natural,Trastornos Mentales o Psicologicos,Trastorno afectivo bipolar
+natural,Trastornos Mentales o Psicologicos,Episodio depresivo
+natural,Trastornos Mentales o Psicologicos,Trastorno depresivo recurrente
+natural,Trastornos Mentales o Psicologicos,Trastorno del humor [afectivos] persistentes
+natural,Trastornos Mentales o Psicologicos,Otros trastornos del humor [afectivos]
+natural,Trastornos Mentales o Psicologicos,Trastorno del humor [afectivo] no especificado
+natural,Trastornos Mentales o Psicologicos,Trastornos fóbicos de ansiedad
+natural,Trastornos Mentales o Psicologicos,Otros trastornos de ansiedad
+natural,Trastornos Mentales o Psicologicos,Trastorno obsesivo-compulsivo
+natural,Trastornos Mentales o Psicologicos,Reacción al estrés grave y trastornos de adaptación
+natural,Trastornos Mentales o Psicologicos,Trastornos disociativos [de conversión]
+natural,Trastornos Mentales o Psicologicos,Trastornos somatomorfos
+natural,Trastornos Mentales o Psicologicos,Otros trastornos neuróticos
+natural,Trastornos Mentales o Psicologicos,Trastornos de la ingestión de alimentos
+natural,Trastornos Mentales o Psicologicos,Trastornos no orgánicos del sueño
+natural,Trastornos Mentales o Psicologicos,Disfunción sexual no ocasionada por trastorno ni enfermedad orgánicos
+natural,Trastornos Mentales o Psicologicos,Trastornos mentales y del comportamiento asociados con el puerperio no clasificados en otra parte
+natural,Trastornos Mentales o Psicologicos,Factores psicológicos y del comportamiento asociados con trastornos o enfermedades clasificados en otra parte
+natural,Trastornos Mentales o Psicologicos,Abuso de sustancias que no producen dependencia
+natural,Trastornos Mentales o Psicologicos,Síndromes del comportamiento asociados con alteraciones fisiológicas y factores físicos no especificados
+natural,Trastornos Mentales o Psicologicos,Trastornos específicos de la personalidad
+natural,Trastornos Mentales o Psicologicos,Trastornos mixtos y otros trastornos de la personalidad
+natural,Trastornos Mentales o Psicologicos,Cambios perdurables de la personalidad no atribuibles a lesión o a enfermedad cerebral
+natural,Trastornos Mentales o Psicologicos,Trastornos de los hábitos y de los impulsos
+natural,Trastornos Mentales o Psicologicos,Trastornos de la identidad de género
+natural,Trastornos Mentales o Psicologicos,Trastornos de la preferencia sexual
+natural,Trastornos Mentales o Psicologicos,Trastornos psicológicos y del comportamiento asociados con el desarrollo y con la orientación sexuales
+natural,Trastornos Mentales o Psicologicos,Otros trastornos de la personalidad y del comportamiento en adultos
+natural,Trastornos Mentales o Psicologicos,Trastorno de la personalidad y del comportamiento en adultos no especificado
+natural,Trastornos Mentales o Psicologicos,Retraso mental leve
+natural,Trastornos Mentales o Psicologicos,Retraso mental moderado
+natural,Trastornos Mentales o Psicologicos,Retraso mental grave
+natural,Trastornos Mentales o Psicologicos,Retraso mental profundo
+natural,Trastornos Mentales o Psicologicos,Otros tipos de retraso mental
+natural,Trastornos Mentales o Psicologicos,Retraso mental no especificado
+natural,Trastornos Mentales o Psicologicos,Trastornos específicos del desarrollo del habla y del lenguaje
+natural,Trastornos Mentales o Psicologicos,Trastornos específicos del  desarrollo de las habilidades escolares
+natural,Trastornos Mentales o Psicologicos,Trastorno especÍfico del desarrollo de la función motriz
+natural,Trastornos Mentales o Psicologicos,Trastornos específicos mixtos del desarrollo
+natural,Trastornos Mentales o Psicologicos,Trastornos generalizados del desarrollo
+natural,Trastornos Mentales o Psicologicos,Otros trastornos del desarrollo psicológico
+natural,Trastornos Mentales o Psicologicos,Trastorno del desarrollo psicológico no especificado
+natural,Trastornos Mentales o Psicologicos,Trastornos hipercinéticos
+natural,Trastornos Mentales o Psicologicos,Trastornos de la conducta
+natural,Trastornos Mentales o Psicologicos,Trastornos mixtos de la conducta y de las emociones
+natural,Trastornos Mentales o Psicologicos,Trastornos emocionales de comienzo específico en la niñez
+natural,Trastornos Mentales o Psicologicos,Trastornos del comportamiento social de comienzo específico en la niñez y en la adolescencia
+natural,Trastornos Mentales o Psicologicos,Trastornos por tics
+natural,Trastornos Mentales o Psicologicos,Otros trastornos emocionales y del comportamiento que aparecen habitualmente en la niñez y en la adolescencia
+natural,Trastornos Mentales o Psicologicos,Trastorno mental no especificado
+natural,Trastornos del Sistema Nervioso,Poliomielitis aguda
+natural,Trastornos del Sistema Nervioso,Infecciones del sistema nervioso central por virus atípico
+natural,Trastornos del Sistema Nervioso,Rabia
+natural,Trastornos del Sistema Nervioso,Encefalitis viral transmitida por mosquitos
+natural,Trastornos del Sistema Nervioso,Encefalitis viral transmitida por garrapatas
+natural,Trastornos del Sistema Nervioso,Otras encefalitis virales no clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Encefalitis viral no especificada
+natural,Trastornos del Sistema Nervioso,Meningitis viral
+natural,Trastornos del Sistema Nervioso,Otras infecciones virales del sistema nervioso central no clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Infección viral del sistema nervioso central no especificada
+natural,Trastornos del Sistema Nervioso,Meningitis bacteriana no clasificada en otra parte
+natural,Trastornos del Sistema Nervioso,Meningitis en enfermedades bacterianas clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Meningitis en otras enfermedades infecciosas y parasitarias clasificada en otra parte
+natural,Trastornos del Sistema Nervioso,Meningitis debida a otras causas y a las no especificadas
+natural,Trastornos del Sistema Nervioso,Encefalitis mielitis y encefalomielitis
+natural,Trastornos del Sistema Nervioso,Encefalitis mielitis y encefalomielitis en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Absceso y granuloma intracraneal e intrarraquídeo
+natural,Trastornos del Sistema Nervioso,Absceso y granuloma intracraneal e intrarraquídeo en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Flebitis y tromboflebitis intracraneal e intrarraquídea
+natural,Trastornos del Sistema Nervioso,Secuelas de enfermedades inflamatorias del sistema nervioso central
+natural,Trastornos del Sistema Nervioso,Enfermedad de Huntington
+natural,Trastornos del Sistema Nervioso,Ataxia hereditaria
+natural,Trastornos del Sistema Nervioso,Atrofia muscular espinal y síndromes afines
+natural,Trastornos del Sistema Nervioso,Atrofias sistémicas que afectan primariamente el sistema nervioso central en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Síndrome postpolio
+natural,Trastornos del Sistema Nervioso,Enfermedad de Parkinson
+natural,Trastornos del Sistema Nervioso,Parkinsonismo secundario
+natural,Trastornos del Sistema Nervioso,Parkinsonismo en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Otras enfermedades degenerativas de los núcleos de la base
+natural,Trastornos del Sistema Nervioso,Distonía
+natural,Trastornos del Sistema Nervioso,Otros trastornos extrapiramidales y del movimiento
+natural,Trastornos del Sistema Nervioso,Trastornos extrapiramidales y del movimiento en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Enfermedad de Alzheimer
+natural,Trastornos del Sistema Nervioso,Otras enfermedades degenerativas del sistema nervioso no clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Otros trastornos degenerativos del sistema nervioso en enfermedades  clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Esclerosis múltiple
+natural,Trastornos del Sistema Nervioso,Otras desmielinizaciones diseminadas agudas
+natural,Trastornos del Sistema Nervioso,Otras enfermedades desmielinizantes del sistema nervioso central
+natural,Trastornos del Sistema Nervioso,Epilepsia
+natural,Trastornos del Sistema Nervioso,Estado de mal epiléptico
+natural,Trastornos del Sistema Nervioso,Migraña
+natural,Trastornos del Sistema Nervioso,Otros síndromes de cefalea
+natural,Trastornos del Sistema Nervioso,Ataques de isquemia cerebral transitoria y síndromes afines
+natural,Trastornos del Sistema Nervioso,Síndromes vasculares encefálicos en enfermedades cerebrovasculares
+natural,Trastornos del Sistema Nervioso,Trastornos del sueño
+natural,Trastornos del Sistema Nervioso,Trastornos del nervio trigémino
+natural,Trastornos del Sistema Nervioso,Trastornos del nervio facial
+natural,Trastornos del Sistema Nervioso,Trastornos de otros nervios craneales
+natural,Trastornos del Sistema Nervioso,Trastornos de los nervios craneales en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Trastornos de las raíces y de los plexos nerviosos
+natural,Trastornos del Sistema Nervioso,Compresiones de las raíces y de los plexos nerviosos en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Mononeuropatías del miembro superior
+natural,Trastornos del Sistema Nervioso,Mononeuropatías del miembro inferior
+natural,Trastornos del Sistema Nervioso,Otras mononeuropatías
+natural,Trastornos del Sistema Nervioso,Mononeuropatía en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Neuropatía hereditaria e idiopática
+natural,Trastornos del Sistema Nervioso,Polineuopatía inflamatoria
+natural,Trastornos del Sistema Nervioso,Otras polineuropatías
+natural,Trastornos del Sistema Nervioso,Polineuropatías en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Otros trastornos del sistema nervioso periférico
+natural,Trastornos del Sistema Nervioso,Miastenia gravis y otros trastornos neuromusculares
+natural,Trastornos del Sistema Nervioso,Trastornos musculares primarios
+natural,Trastornos del Sistema Nervioso,Otras miopatías
+natural,Trastornos del Sistema Nervioso,Trastornos del músculo y de la unión neuromuscular en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Parálisis cerebral
+natural,Trastornos del Sistema Nervioso,Hemiplejía
+natural,Trastornos del Sistema Nervioso,Paraplejía y cuadriplejía
+natural,Trastornos del Sistema Nervioso,Otros síndromes paralíticos
+natural,Trastornos del Sistema Nervioso,Trastornos del sistema nervioso autónomo
+natural,Trastornos del Sistema Nervioso,Hidrocéfalo
+natural,Trastornos del Sistema Nervioso,Encefalopatía tóxica
+natural,Trastornos del Sistema Nervioso,Otros trastornos del encéfalo
+natural,Trastornos del Sistema Nervioso,Otros trastornos del encéfalo en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Nervioso,Otras enfermedades de la médula espinal
+natural,Trastornos del Sistema Nervioso,Otros trastornos del sistema nervioso central
+natural,Trastornos del Sistema Nervioso,Trastornos del sistema nervioso consecutivos a procedimientos no clasificados en otra parte
+natural,Trastornos del Sistema Nervioso,Otros trastornos del sistema nervioso no clasificados en otra parte
+natural,Trastornos del Sistema Nervioso,Otros trastornos del sistema nervioso en enfermedades clasificadas en otra parte
+natural,Trastornos del Ojo y sus Anexos,Orzuelo y calacio
+natural,Trastornos del Ojo y sus Anexos,Otras inflamaciones del párpado
+natural,Trastornos del Ojo y sus Anexos,Otros trastornos de los párpados
+natural,Trastornos del Ojo y sus Anexos,Trastornos del párpado en enfermedades clasificadas en otra parte
+natural,Trastornos del Ojo y sus Anexos,Trastornos del aparato lagrimal
+natural,Trastornos del Ojo y sus Anexos,Trastornos de la órbita
+natural,Trastornos del Ojo y sus Anexos,Trastornos del aparato lagrimal y de la órbita en enfermedades clasificadas en otra parte
+natural,Trastornos del Ojo y sus Anexos,Conjuntivitis
+natural,Trastornos del Ojo y sus Anexos,Otros trastornos de la conjuntiva
+natural,Trastornos del Ojo y sus Anexos,Trastornos de la conjuntiva en enfermedades clasificadas en otra parte
+natural,Trastornos del Ojo y sus Anexos,Trastornos de la esclerótica
+natural,Trastornos del Ojo y sus Anexos,Queratitis
+natural,Trastornos del Ojo y sus Anexos,Opacidades y cicatrices corneales
+natural,Trastornos del Ojo y sus Anexos,Otros trastornos de la córnea
+natural,Trastornos del Ojo y sus Anexos,Trastornos de la esclerótica y de la córnea en enfermedades clasificadas en otra parte
+natural,Trastornos del Ojo y sus Anexos,Iridociclitis
+natural,Trastornos del Ojo y sus Anexos,Otros trastornos del iris y del cuerpo ciliar
+natural,Trastornos del Ojo y sus Anexos,Trastornos del iris y del cuerpo ciliar en enfermedades clasificadas en otra parte
+natural,Trastornos del Ojo y sus Anexos,Catarata senil
+natural,Trastornos del Ojo y sus Anexos,Otras cataratas
+natural,Trastornos del Ojo y sus Anexos,Otros trastornos del cristalino
+natural,Trastornos del Ojo y sus Anexos,Catarata y otros trastornos del cristalino en enfermedades clasificadas en otra parte
+natural,Trastornos del Ojo y sus Anexos,Inflamación coriorretiniana
+natural,Trastornos del Ojo y sus Anexos,Otros trastornos de la coroides
+natural,Trastornos del Ojo y sus Anexos,Trastornos coriorretinianos en enfermedades clasificadas en otra parte
+natural,Trastornos del Ojo y sus Anexos,Desprendimiento y desgarro de la retina
+natural,Trastornos del Ojo y sus Anexos,Oclusión vascular de la retina
+natural,Trastornos del Ojo y sus Anexos,Otros trastornos de la retina
+natural,Trastornos del Ojo y sus Anexos,Trastornos de la retina en enfermedades clasificadas en otra parte
+natural,Trastornos del Ojo y sus Anexos,Glaucoma
+natural,Trastornos del Ojo y sus Anexos,Glaucoma en enfermedades clasificadas en otra parte
+natural,Trastornos del Ojo y sus Anexos,Trastornos del cuerpo vítreo
+natural,Trastornos del Ojo y sus Anexos,Trastornos del globo ocular
+natural,Trastornos del Ojo y sus Anexos,Trastornos del cuerpo vítreo y del globo ocular en enfermedades clasificadas en otra parte
+natural,Trastornos del Ojo y sus Anexos,Neuritis óptica
+natural,Trastornos del Ojo y sus Anexos,Otros trastornos del nervio óptico [II par] y de las vías ópticas
+natural,Trastornos del Ojo y sus Anexos,Trastornos del nervio óptico [II par] y de las vías ópticas en enfermedades clasificadas en otra parte
+natural,Trastornos del Ojo y sus Anexos,Estrabismo paralítico
+natural,Trastornos del Ojo y sus Anexos,Otros estrabismos
+natural,Trastornos del Ojo y sus Anexos,Otros trastornos de los movimientos binoculares
+natural,Trastornos del Ojo y sus Anexos,Trastornos de la acomodación y de la refracción
+natural,Trastornos del Ojo y sus Anexos,Alteraciones de la visión
+natural,Trastornos del Ojo y sus Anexos,Ceguera y deficiencia visual (binicular o monocular)
+natural,Trastornos del Ojo y sus Anexos,Nistagmo y otros movimientos oculares irregulares
+natural,Trastornos del Ojo y sus Anexos,Otros trastornos del ojo y sus anexos
+natural,Trastornos del Ojo y sus Anexos,Otros trastornos del ojo y sus anexos en enfermedades clasificadas en otra parte
+natural,Trastornos del Ojo y sus Anexos,Trastornos del ojo y sus anexos consecutivos a procedimientos no clasificados en otra parte
+natural,Trastornos del Oido,Otitis externa
+natural,Trastornos del Oido,Otros trastornos del oído externo
+natural,Trastornos del Oido,Trastornos del oído externo en enfermedades clasificadas en otra parte
+natural,Trastornos del Oido,Otitis media no supurativa
+natural,Trastornos del Oido,Otitis media supurativa y la no especificada
+natural,Trastornos del Oido,Otitis media en enfermedades clasificadas en otra parte
+natural,Trastornos del Oido,Inflamación y obstrucción de la trompa de Eustaquio
+natural,Trastornos del Oido,Otros trastornos de la trompa de Eustaquio
+natural,Trastornos del Oido,Mastoiditis y afecciones relacionadas
+natural,Trastornos del Oido,Colesteatoma del oído medio
+natural,Trastornos del Oido,Perforación de la membrana timpánica
+natural,Trastornos del Oido,Otros trastornos de la membrana timpánica
+natural,Trastornos del Oido,Otros trastornos del oído medio y de la apófisis mastoides
+natural,Trastornos del Oido,Otros trastornos del oído medio y de la apófisis mastoides en enfermedades clasificadas en otra parte
+natural,Trastornos del Oido,Otosclerosis
+natural,Trastornos del Oido,Trastornos de la función vestibular
+natural,Trastornos del Oido,Síndromes vertiginosos en enfermedades clasificadas en otra parte
+natural,Trastornos del Oido,Otros trastornos del oído interno
+natural,Trastornos del Oido,Hipocausia conductiva y neurosensorial
+natural,Trastornos del Oido,Otras hipoacusias
+natural,Trastornos del Oido,Otalgia y secreción del oído
+natural,Trastornos del Oido,Otros trastornos del oído no clasificados en otra parte
+natural,Trastornos del Oido,Otros trastornos del oído en enfermedades clasificadas en otra parte
+natural,Trastornos del Oido,Trastornos del oído y de la apófisis mastoides consecutivos a procedimientos no clasificados en otra parte
+natural,Enfermedad Reumatica,Fiebre reumática sin mención de complicación cardíaca
+natural,Enfermedad Reumatica,Fiebre reumática con complicación cardíaca
+natural,Enfermedad Reumatica,Corea reumática
+natural,Enfermedad Reumatica,Enfermedades reumáticas de la válvula mitral
+natural,Enfermedad Reumatica,Enfermedades reumáticas de la válvula aórtica
+natural,Enfermedad Reumatica,Enfermedades reumáticas de la válvula tricúspide
+natural,Enfermedad Reumatica,Enfermedades valvulares múltiples
+natural,Enfermedad Reumatica,Otras enfermedades reumáticas del corazón
+natural,Trastornos Cardiacos,Hipertensión esencial (primaria)
+natural,Trastornos Cardiacos,Enfermedad cardíaca hipertensiva
+natural,Trastornos Cardiacos,Enfermedad renal hipertensiva
+natural,Trastornos Cardiacos,Enfermedad cardiorrenal hipertensiva
+natural,Trastornos Cardiacos,Hipertensión secundaria
+natural,Trastornos Cardiacos,Angina de pecho
+natural,Trastornos Cardiacos,Infarto agudo del miocardio
+natural,Trastornos Cardiacos,Infarto subsecuente del miocardio
+natural,Trastornos Cardiacos,Ciertas complicaciones presentes posteriores al infarto agudo del miocardio
+natural,Trastornos Cardiacos,Otras enfermedades isquémicas agudas del corazón
+natural,Trastornos Cardiacos,Enfermedad isquémica crónica del corazón
+natural,Trastornos Cardiacos,Embolia pulmonar
+natural,Trastornos Cardiacos,Otras enfermedades cardiopulmonares
+natural,Trastornos Cardiacos,Otras enfermedades de los vasos pulmonares
+natural,Trastornos Cardiacos,Pericarditis aguda
+natural,Trastornos Cardiacos,Otras enfermedades del pericardio
+natural,Trastornos Cardiacos,Pericarditis en enfermedades clasificadas en otra parte
+natural,Trastornos Cardiacos,Endocarditis aguda y subaguda
+natural,Trastornos Cardiacos,Trastornos no reumáticos de la válvula mitral
+natural,Trastornos Cardiacos,Trastornos no reumáticos de la válvula aórtica
+natural,Trastornos Cardiacos,Trastornos no reumáticos de la válvula tricúspide
+natural,Trastornos Cardiacos,Trastornos de la válvula pulmonar
+natural,Trastornos Cardiacos,Endocarditis válvula no especificada
+natural,Trastornos Cardiacos,Endocarditis y trastornos valvulares en enfermedades clasificadas en otra parte
+natural,Trastornos Cardiacos,Miocarditis aguda
+natural,Trastornos Cardiacos,Miocarditis en enfermedades clasificadas en otra parte
+natural,Trastornos Cardiacos,Cardiomiopatía
+natural,Trastornos Cardiacos,Cardiomiopatía en enfermedades clasificadas en otra parte
+natural,Trastornos Cardiacos,Bloqueo auriculoventricular y de rama izquierda del haz
+natural,Trastornos Cardiacos,Otros trastornos de la conducción
+natural,Trastornos Cardiacos,Paro cardíaco
+natural,Trastornos Cardiacos,Taquicardia paroxística
+natural,Trastornos Cardiacos,Fibrilación y aleteo auricular
+natural,Trastornos Cardiacos,Otras arritmias cardiacas
+natural,Trastornos Cardiacos,Insuficiencia cardíaca
+natural,Trastornos Cardiacos,Complicaciones y descripciones mal definidas de enfermedad cardíaca
+natural,Trastornos Cardiacos,Otros trastornos cardíacos en enfermedades clasificadas en otra parte
+natural,Trastornos Cardiacos,Anormalidades del latido cardíaco
+natural,Trastornos Cardiacos,Soplos y otros sonidos cardíacos
+natural,Trastornos Cardiacos,Gangrena no clasificada en otra parte
+natural,Trastornos Cardiacos,Lectura de presión sanguínea anormal sin diagnóstico
+natural,Trastornos del Sistema Circulatorio,Aterosclerosis
+natural,Trastornos del Sistema Circulatorio,Aneurisma y disección aórticos
+natural,Trastornos del Sistema Circulatorio,Otros aneurismas y aneurismas disecantes
+natural,Trastornos del Sistema Circulatorio,Otras enfermedades vasculares periféricas
+natural,Trastornos del Sistema Circulatorio,Embolia y trombosis arteriales
+natural,Trastornos del Sistema Circulatorio,Otros trastornos arteriales o arteriolares
+natural,Trastornos del Sistema Circulatorio,Enfermedades de los vasos capilares
+natural,Trastornos del Sistema Circulatorio,Trastornos de las arterias de las arteriolas y de los vasos capilares en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Circulatorio,Flebitis y tromboflebitis
+natural,Trastornos del Sistema Circulatorio,Trombosis de la vena porta
+natural,Trastornos del Sistema Circulatorio,Otras embolias y trombosis venosas
+natural,Trastornos del Sistema Circulatorio,Venas varicosas de los miembros inferiores
+natural,Trastornos del Sistema Circulatorio,Várices esofágicas
+natural,Trastornos del Sistema Circulatorio,Várices de otros sitios
+natural,Trastornos del Sistema Circulatorio,Otros trastornos de las venas
+natural,Trastornos del Sistema Circulatorio,Linfadenitis inespecífica
+natural,Trastornos del Sistema Circulatorio,Otros trastornos no infecciosos de los vasos y ganglios linfáticos
+natural,Trastornos del Sistema Circulatorio,Hipotensión
+natural,Trastornos del Sistema Circulatorio,Trastornos del sistema circulatorio consecutivos a procedimientos no clasificados en otra parte
+natural,Trastornos del Sistema Circulatorio,Otros trastornos del sistema circulatorio en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Circulatorio,Otros trastornos y los no especificados del sistema circulatorio
+natural,Trastornos del Sistema Respiratorio,Rinofaringitis aguda [resfriado común]
+natural,Trastornos del Sistema Respiratorio,Sinusitis aguda
+natural,Trastornos del Sistema Respiratorio,Faringitis aguda
+natural,Trastornos del Sistema Respiratorio,Amigdalitis aguda
+natural,Trastornos del Sistema Respiratorio,Laringitis y traqueítis agudas
+natural,Trastornos del Sistema Respiratorio,Laringitis obstructiva aguda [crup] y epiglotitis
+natural,Trastornos del Sistema Respiratorio,Infecciones agudas de las vías respiratorias superiores de sitios múltiples o no especificados
+natural,Trastornos del Sistema Respiratorio,Influenza debida a ciertos virus de la influenza identificados
+natural,Trastornos del Sistema Respiratorio,Influenza debida a otro virus de la influenza identificado
+natural,Trastornos del Sistema Respiratorio,Influenza debida a virus no identificado
+natural,Trastornos del Sistema Respiratorio,Neumonía viral no clasificada en otra parte
+natural,Trastornos del Sistema Respiratorio,Neumonía debida a Streptococcus pneumoniae
+natural,Trastornos del Sistema Respiratorio,Neumonía debida a Haemophilus influenzae
+natural,Trastornos del Sistema Respiratorio,Neumonía bacteriana no clasificada en otra parte
+natural,Trastornos del Sistema Respiratorio,Neumonía debida a otros microorganismos infecciosos no clasificados en otra parte
+natural,Trastornos del Sistema Respiratorio,Neumonía en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Respiratorio,Neumonía organismo no especificado
+natural,Trastornos del Sistema Respiratorio,Bronquitis aguda
+natural,Trastornos del Sistema Respiratorio,Bronquiolitis aguda
+natural,Trastornos del Sistema Respiratorio,Infección aguda no especificada de las vías respiratorias inferiores
+natural,Trastornos del Sistema Respiratorio,Rinitis alérgica y vasomotora
+natural,Trastornos del Sistema Respiratorio,Rinitis rinofaringitis y faringitis crónicas
+natural,Trastornos del Sistema Respiratorio,Sinusitis crónica
+natural,Trastornos del Sistema Respiratorio,Pólipo nasal
+natural,Trastornos del Sistema Respiratorio,Otros trastornos de la nariz y de los senos paranasales
+natural,Trastornos del Sistema Respiratorio,Enfermedades crónicas de las amígdalas y de las adenoides
+natural,Trastornos del Sistema Respiratorio,Absceso periamigdalino
+natural,Trastornos del Sistema Respiratorio,Laringitis y laringotraqueítis crónicas
+natural,Trastornos del Sistema Respiratorio,Enfermedades de las cuerdas vocales y de la laringe no clasificadas en otra parte
+natural,Trastornos del Sistema Respiratorio,Otras enfermedades de las vías respiratorias superiores
+natural,Trastornos del Sistema Respiratorio,Bronquitis no especificada como aguda o crónica
+natural,Trastornos del Sistema Respiratorio,Bronquitis crónica simple y mucopurulenta
+natural,Trastornos del Sistema Respiratorio,Bronquitis crónica no especificada
+natural,Trastornos del Sistema Respiratorio,Enfisema
+natural,Trastornos del Sistema Respiratorio,Otras enfermedades pulmonares obstructivas crónicas
+natural,Trastornos del Sistema Respiratorio,Asma
+natural,Trastornos del Sistema Respiratorio,Estado asmático
+natural,Trastornos del Sistema Respiratorio,Bronquiectasia
+natural,Trastornos del Sistema Respiratorio,Neumoconiosis de los mineros del carbón
+natural,Trastornos del Sistema Respiratorio,Neumoconiosis debida al asbesto y a otras fibras minerales
+natural,Trastornos del Sistema Respiratorio,Neumoconiosis debida a polvo de sílice
+natural,Trastornos del Sistema Respiratorio,Neumoconiosis debida a otros polvos inorgánicos
+natural,Trastornos del Sistema Respiratorio,Neumoconiosis no especificada
+natural,Trastornos del Sistema Respiratorio,Neumoconiosis asociada con tuberculosis
+natural,Trastornos del Sistema Respiratorio,Enfermedades de las vías aéreas debidas a polvos orgánicos específicos
+natural,Trastornos del Sistema Respiratorio,Neumonitis debida a hipersensibilidad al polvo orgánico
+natural,Trastornos del Sistema Respiratorio,Afecciones respiratorias debidas a inhalación de gases humos vapores y sustancias químicas
+natural,Trastornos del Sistema Respiratorio,Neumonitis debida a sólidos y líquidos
+natural,Trastornos del Sistema Respiratorio,Afecciones respiratorias debidas a otros agentes externos
+natural,Trastornos del Sistema Respiratorio,Síndrome de dificultad respiratoria del adulto
+natural,Trastornos del Sistema Respiratorio,Edema pulmonar
+natural,Trastornos del Sistema Respiratorio,Eosinofilia pulmonar no clasificada en otra parte
+natural,Trastornos del Sistema Respiratorio,Otras enfermedades pulmonares intersticiales
+natural,Trastornos del Sistema Respiratorio,Absceso del pulmón y del mediastino
+natural,Trastornos del Sistema Respiratorio,Piotórax
+natural,Trastornos del Sistema Respiratorio,Derrame pleural no clasificado en otra parte
+natural,Trastornos del Sistema Respiratorio,Derrame pleural en afecciones clasificadas en otra parte
+natural,Trastornos del Sistema Respiratorio,Paquipleuritis
+natural,Trastornos del Sistema Respiratorio,Neumotórax
+natural,Trastornos del Sistema Respiratorio,Otras afecciones de la pleura
+natural,Trastornos del Sistema Respiratorio,Trastornos del sistema respiratorio consecutivos a procedimientos no clasificados en otra parte
+natural,Trastornos del Sistema Respiratorio,Insuficiencia respiratoria no clasificada en otra parte
+natural,Trastornos del Sistema Respiratorio,Otros trastornos respiratorios
+natural,Trastornos del Sistema Respiratorio,Trastornos respiratorios en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Respiratorio,Hemorragia de las vías respiratorias
+natural,Trastornos del Sistema Respiratorio,Tos
+natural,Trastornos del Sistema Respiratorio,Anormalidades de la respiración
+natural,Trastornos del Sistema Respiratorio,Dolor de garganta y en el pecho
+natural,Trastornos del Sistema Respiratorio,Otros síntomas y signos que involucran los sistemas circulatorio y respiratorio
+natural,Trastornos del Sistema Digestivo,Trastornos del desarrollo y de la erupción de los dientes
+natural,Trastornos del Sistema Digestivo,Dientes incluidos e impactados
+natural,Trastornos del Sistema Digestivo,Caries dental
+natural,Trastornos del Sistema Digestivo,Otras enfermedades de los tejidos duros de los dientes
+natural,Trastornos del Sistema Digestivo,Enfermedades de la pulpa y de los tejidos periapicales
+natural,Trastornos del Sistema Digestivo,Gingivitis y enfermedades periodontales
+natural,Trastornos del Sistema Digestivo,Otros trastornos de la encía y de la zona edéntula
+natural,Trastornos del Sistema Digestivo,Anomalías dentofaciales (incluso la maloclusión)
+natural,Trastornos del Sistema Digestivo,Otros trastornos de los dientes y de sus estructuras de sostén
+natural,Trastornos del Sistema Digestivo,Quites de la región bucal no clasificados en otra parte
+natural,Trastornos del Sistema Digestivo,Otras enfermedades de los maxilares
+natural,Trastornos del Sistema Digestivo,Enfermedades de las glándulas salivales
+natural,Trastornos del Sistema Digestivo,Estomatitis y lesiones afines
+natural,Trastornos del Sistema Digestivo,Otras enfermedades de los labios y de la mucosa bucal
+natural,Trastornos del Sistema Digestivo,Enfermedades de la lengua
+natural,Trastornos del Sistema Digestivo,Esofagitis
+natural,Trastornos del Sistema Digestivo,Enfermedad del reflujo gastroesofágico
+natural,Trastornos del Sistema Digestivo,Otras enfermedades del esófago
+natural,Trastornos del Sistema Digestivo,Trastornos del esófago en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Digestivo,Úlcera gástrica
+natural,Trastornos del Sistema Digestivo,Úlcera duodenal
+natural,Trastornos del Sistema Digestivo,Úlcera péptica de sitio no especificado
+natural,Trastornos del Sistema Digestivo,Úlcera gastroyeyunal
+natural,Trastornos del Sistema Digestivo,Gastritis y duodenitis
+natural,Trastornos del Sistema Digestivo,Dispepsia funcional
+natural,Trastornos del Sistema Digestivo,Otras enfermedades del estómago y del duodeno
+natural,Trastornos del Sistema Digestivo,Apendicitis aguda
+natural,Trastornos del Sistema Digestivo,Otros tipos de apendicitis
+natural,Trastornos del Sistema Digestivo,Apendicitis no especificada
+natural,Trastornos del Sistema Digestivo,Otras enfermedades del apéndice
+natural,Trastornos del Sistema Digestivo,Hernia inguinal
+natural,Trastornos del Sistema Digestivo,Hernia femoral
+natural,Trastornos del Sistema Digestivo,Hernia umbilical
+natural,Trastornos del Sistema Digestivo,Hernia ventral
+natural,Trastornos del Sistema Digestivo,Hernia diafragmática
+natural,Trastornos del Sistema Digestivo,Otras hernias de la cavidad abdominal
+natural,Trastornos del Sistema Digestivo,Hernia no especificada de la cavidad abdominal
+natural,Trastornos del Sistema Digestivo,Enfermedad de Crohn [enteritis regional]
+natural,Trastornos del Sistema Digestivo,Colitis Ulcerativa
+natural,Trastornos del Sistema Digestivo,Otras colitis y gastroenteritis no infecciosas
+natural,Trastornos del Sistema Digestivo,Trastornos vasculares de los intestinos
+natural,Trastornos del Sistema Digestivo,Ileo paralítico y obstrucción intestinal sin hernia
+natural,Trastornos del Sistema Digestivo,Enfermedad diverticular del intestino
+natural,Trastornos del Sistema Digestivo,Síndrome del colon irritable
+natural,Trastornos del Sistema Digestivo,Otros trastornos funcionles del intestino
+natural,Trastornos del Sistema Digestivo,Fisura y fístula de las regiones anal y rectal
+natural,Trastornos del Sistema Digestivo,Absceso de las regiones anal y rectal
+natural,Trastornos del Sistema Digestivo,Otras enfermedades del ano y del recto
+natural,Trastornos del Sistema Digestivo,Otras enfermedades de los intestinos
+natural,Trastornos del Sistema Digestivo,Hemorroides y trombosis venosa perianal
+natural,Trastornos del Sistema Digestivo,Peritonitis
+natural,Trastornos del Sistema Digestivo,Otros trastornos del peritoneo
+natural,Trastornos del Sistema Digestivo,Trastornos del peritoneo en enfermedades infecciosas clasificadas en otra parte
+natural,Trastornos del Sistema Digestivo,Enfermedad alcohólica del hígado
+natural,Trastornos del Sistema Digestivo,Enfermedad tóxica del hígado
+natural,Trastornos del Sistema Digestivo,Insuficiencia hepática no clasificada en otra parte
+natural,Trastornos del Sistema Digestivo,Hepatitis crónica no clasificada en otra parte
+natural,Trastornos del Sistema Digestivo,Fibrosis y cirrosis del hígado
+natural,Trastornos del Sistema Digestivo,Otras enfermedades inflamatorias del hígado
+natural,Trastornos del Sistema Digestivo,Otras enfermedades del hígado
+natural,Trastornos del Sistema Digestivo,Trastornos del hígado en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Digestivo,Colelitiasis
+natural,Trastornos del Sistema Digestivo,Colecistitis
+natural,Trastornos del Sistema Digestivo,Otras enfermedades de la vesícula biliar
+natural,Trastornos del Sistema Digestivo,Otras enfermedades de las vías biliares
+natural,Trastornos del Sistema Digestivo,Pancreatitis aguda
+natural,Trastornos del Sistema Digestivo,Otras enfermedades del páncreas
+natural,Trastornos del Sistema Digestivo,Trastornos de la vesícula biliar de las vías biliares y del páncreas en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Digestivo,Malabsorción intestinal
+natural,Trastornos del Sistema Digestivo,Trastornos del sistema digestivo consecutivos a procedimientos no clasificados en otra parte
+natural,Trastornos del Sistema Digestivo,Otras enfermedades del sistema digestivo
+natural,Trastornos del Sistema Digestivo,Trastornos de otros órganos digestivos en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Digestivo,Dolor abdominal y pélvico
+natural,Trastornos del Sistema Digestivo,Náusea y vómito
+natural,Trastornos del Sistema Digestivo,Acidez
+natural,Trastornos del Sistema Digestivo,Disfagia
+natural,Trastornos del Sistema Digestivo,Flatulencia y afecciones afines
+natural,Trastornos del Sistema Digestivo,Incontinencia fecal
+natural,Trastornos del Sistema Digestivo,Hepatomegalia y esplenomegalia no clasificadas en otra parte
+natural,Trastornos del Sistema Digestivo,Ictericia no especificada
+natural,Trastornos del Sistema Digestivo,Ascitis
+natural,Trastornos del Sistema Digestivo,Otros síntomas y signos que involucran el sistema digestivo y el abdomen
+natural,Trastornos de la Peil y Tejido Subcutaneo,Síndrome estafilocócico de la piel escaldada
+natural,Trastornos de la Peil y Tejido Subcutaneo,Impétigo
+natural,Trastornos de la Peil y Tejido Subcutaneo,Absceso cutáneo furúnculo y ántrax
+natural,Trastornos de la Peil y Tejido Subcutaneo,Celulitis
+natural,Trastornos de la Peil y Tejido Subcutaneo,Linfadenitis aguda
+natural,Trastornos de la Peil y Tejido Subcutaneo,Alteraciones de la sensibilidad cutánea
+natural,Trastornos de la Peil y Tejido Subcutaneo,Salpullido y otras erupciones cutáneas no especificadas
+natural,Trastornos de la Peil y Tejido Subcutaneo,Tumefacción masa  o prominencia de la piel y del tejido subcutáneo localizados
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otros cambios en la piel
+natural,Trastornos de la Peil y Tejido Subcutaneo,Quiste pilonidal
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otras infecciones locales de la piel y del tejido subcutáneo
+natural,Trastornos de la Peil y Tejido Subcutaneo,Pénfigo
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otros trastornos acantolíticos
+natural,Trastornos de la Peil y Tejido Subcutaneo,Penfigoide
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otros trastornos flictenulares
+natural,Trastornos de la Peil y Tejido Subcutaneo,Trastornos flictenulares en enfermedades clasificadas en otra parte
+natural,Trastornos de la Peil y Tejido Subcutaneo,Dermatitis atópica
+natural,Trastornos de la Peil y Tejido Subcutaneo,Dermatitis seborreica
+natural,Trastornos de la Peil y Tejido Subcutaneo,Dermatitis del pañal
+natural,Trastornos de la Peil y Tejido Subcutaneo,Dermatitis alérgica de contacto
+natural,Trastornos de la Peil y Tejido Subcutaneo,Dermatitis de contacto por irritantes
+natural,Trastornos de la Peil y Tejido Subcutaneo,Dermatitis de contacto forma no especificada
+natural,Trastornos de la Peil y Tejido Subcutaneo,Dermatitis exfoliativa
+natural,Trastornos de la Peil y Tejido Subcutaneo,Dermatitis debida a sustancias ingeridas
+natural,Trastornos de la Peil y Tejido Subcutaneo,Liquen simple crónico y prurigo
+natural,Trastornos de la Peil y Tejido Subcutaneo,Prurito
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otras dermatitis
+natural,Trastornos de la Peil y Tejido Subcutaneo,Psoriasis
+natural,Trastornos de la Peil y Tejido Subcutaneo,Parapsoriasis
+natural,Trastornos de la Peil y Tejido Subcutaneo,Pitiriasis rosada
+natural,Trastornos de la Peil y Tejido Subcutaneo,Liquen plano
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otros trastornos papuloescamosos
+natural,Trastornos de la Peil y Tejido Subcutaneo,Trastornos papuloescamosos en enfermedades clasificadas en otra parte
+natural,Trastornos de la Peil y Tejido Subcutaneo,Urticaria
+natural,Trastornos de la Peil y Tejido Subcutaneo,Eritema multiforme
+natural,Trastornos de la Peil y Tejido Subcutaneo,Eritema nudoso
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otras afecciones eritematosas
+natural,Trastornos de la Peil y Tejido Subcutaneo,Eritema en enfermedades clasificadas en otra parte
+natural,Trastornos de la Peil y Tejido Subcutaneo,Quemadura solar
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otros cambios agudos de la piel debidos a radiación ultravioleta
+natural,Trastornos de la Peil y Tejido Subcutaneo,Cambios de la piel debidos a exposición crónica a radiación no ionizante
+natural,Trastornos de la Peil y Tejido Subcutaneo,Radiodermatitis
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otros trastornos de la piel y del tejido subcutáneo relacionados con radiación
+natural,Trastornos de la Peil y Tejido Subcutaneo,Trastornos de las uñas
+natural,Trastornos de la Peil y Tejido Subcutaneo,Trastornos de las uñas en enfermedades clasificadas en otra parte
+natural,Trastornos de la Peil y Tejido Subcutaneo,Alopecia areata
+natural,Trastornos de la Peil y Tejido Subcutaneo,Alopecia andrógena
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otra pérdida no cicatricial del pelo
+natural,Trastornos de la Peil y Tejido Subcutaneo,Alopecia cicatricial [pérdida cicatricial del pelo]
+natural,Trastornos de la Peil y Tejido Subcutaneo,Anormalidades del tallo y del color del pelo
+natural,Trastornos de la Peil y Tejido Subcutaneo,Hipertricosis
+natural,Trastornos de la Peil y Tejido Subcutaneo,Acné
+natural,Trastornos de la Peil y Tejido Subcutaneo,Rosásea
+natural,Trastornos de la Peil y Tejido Subcutaneo,Quiste folicular de la piel y del tejido subcutáneo
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otros trastornos foliculares
+natural,Trastornos de la Peil y Tejido Subcutaneo,Trastornos sudoríparos ecrinos
+natural,Trastornos de la Peil y Tejido Subcutaneo,Trastornos sudoríparos apocrinos
+natural,Trastornos de la Peil y Tejido Subcutaneo,Vitíligo
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otros trastornos de la pigmentación
+natural,Trastornos de la Peil y Tejido Subcutaneo,Queratosis seborreica
+natural,Trastornos de la Peil y Tejido Subcutaneo,Acantosis nigricans
+natural,Trastornos de la Peil y Tejido Subcutaneo,Callos y callosidades
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otros tipos de engrosamiento epidérmico
+natural,Trastornos de la Peil y Tejido Subcutaneo,Queratoderma en enfermedades clasificadas en otra parte
+natural,Trastornos de la Peil y Tejido Subcutaneo,Trastornos de la eliminación transepidérmica
+natural,Trastornos de la Peil y Tejido Subcutaneo,Pioderma gangrenoso
+natural,Trastornos de la Peil y Tejido Subcutaneo,Úlcera de decúbito y por área de presión
+natural,Trastornos de la Peil y Tejido Subcutaneo,Trastornos atróficos de la piel
+natural,Trastornos de la Peil y Tejido Subcutaneo,Trastornos hipertróficos de la piel
+natural,Trastornos de la Peil y Tejido Subcutaneo,Trastornos granulomatosos de la piel y del tejido subcutáneo
+natural,Trastornos de la Peil y Tejido Subcutaneo,Lupus eritematoso
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otros trastornos localizados del tejido conjuntivo
+natural,Trastornos de la Peil y Tejido Subcutaneo,Vasculitis limitada a la piel no clasificada en otra parte
+natural,Trastornos de la Peil y Tejido Subcutaneo,Úlcera de miembro inferior no clasificada en otra parte
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otros trastornos de la piel y del tejido subcutáneo no clasificados en otra parte
+natural,Trastornos de la Peil y Tejido Subcutaneo,Otros trastornos de la piel y del tejido subcutáneo en enfermedades clasificadas en otra parte
+natural,Trastornos Auriculares,Artritis piógena
+natural,Trastornos Auriculares,Infecciones directas de la articulación en enfermedades infecciosas y parasitarias clasificadas en otra parte
+natural,Trastornos Auriculares,Artropatías reactivas
+natural,Trastornos Auriculares,Artropatías postinfecciosas y reactivas en enfermedades clasificadas en otra parte
+natural,Trastornos Auriculares,Artritis reumatoide seropositiva
+natural,Trastornos Auriculares,Otras artritis reumatoides
+natural,Trastornos Auriculares,Artropatías psoriásicas y enteropáticas
+natural,Trastornos Auriculares,Artritis juvenil
+natural,Trastornos Auriculares,Artritis juvenil en enfermedades clasificadas en otra parte
+natural,Trastornos Auriculares,Gota
+natural,Trastornos Auriculares,Otras artropatías por cristales
+natural,Trastornos Auriculares,Otras artropatías específicas
+natural,Trastornos Auriculares,Otras artritis
+natural,Trastornos Auriculares,Artropatía en otras enfermedades clasificadas en otra parte
+natural,Trastornos Auriculares,Poliartrosis
+natural,Trastornos Auriculares,Coxartrosis [artrosis de la cadera]
+natural,Trastornos Auriculares,Gonartrosis [artrosis de la rodilla]
+natural,Trastornos Auriculares,Artrosis de la primera articulación carpometacarpiana
+natural,Trastornos Auriculares,Otras artrosis
+natural,Trastornos Auriculares,Deformidades adquiridas de los dedos de la mano y del pie
+natural,Trastornos Auriculares,Otras deformidades adquiridas de los miembros
+natural,Trastornos Auriculares,Trastornos de la rótula
+natural,Trastornos Auriculares,Trastorno interno de la rodilla
+natural,Trastornos Auriculares,Otros trastornos articulares específicos
+natural,Trastornos Auriculares,Otros trastornos articulares no clasificados en otra parte
+natural,Vasculopatia,Poliarteritis nudosa y afecciones relacionadas
+natural,Vasculopatia,Otras vasculopatías necrotizantes
+natural,Trastornos del Tejido Conjuntivo,Lupus eritematoso sistémico
+natural,Trastornos del Tejido Conjuntivo,Dermatopolimiositis
+natural,Trastornos del Tejido Conjuntivo,Esclerosis sistémica
+natural,Trastornos del Tejido Conjuntivo,Otro compromiso sistémico del tejido conjuntivo
+natural,Trastornos del Tejido Conjuntivo,Trastornos sistémicos del tejido conjuntivo en enfermedades clasificadas en otra parte
+natural,Trastornos de la Columna Vertebral,Cifosis y lordosis
+natural,Trastornos de la Columna Vertebral,Escoliosis
+natural,Trastornos de la Columna Vertebral,Osteocondrosis de la columna vertebral
+natural,Trastornos de la Columna Vertebral,Otras dorsopatías deformantes
+natural,Trastornos de la Columna Vertebral,Espondilitis anquilosante
+natural,Trastornos de la Columna Vertebral,Otras espondilopatías inflamatorias
+natural,Trastornos de la Columna Vertebral,Espondilosis
+natural,Trastornos de la Columna Vertebral,Otras espondilopatías
+natural,Trastornos de la Columna Vertebral,Espondilopatías en enfermedades clasificadas en otra parte
+natural,Trastornos de la Columna Vertebral,Trastornos de disco cervical
+natural,Trastornos de la Columna Vertebral,Otros trastornos de los discos intervertebrales
+natural,Trastornos de la Columna Vertebral,Otras dorsopatías no clasificadas en otra parte
+natural,Trastornos Musculares,Dorsalgia
+natural,Trastornos Musculares,Miositis
+natural,Trastornos Musculares,Calcificación y osificación del músculo
+natural,Trastornos Musculares,Otros trastornos de los músculos
+natural,Trastornos Musculares,Trastornos de los músculos en enfermedades clasificadas en otra parte
+natural,Entesopatia,Sinovitis y tenosinovitis
+natural,Entesopatia,Ruptura espontánea de la sinovia y del tendón
+natural,Entesopatia,Otros trastornos de la sinovia y del tendón
+natural,Entesopatia,Trastornos de los tendones y de la sinovia en enfermedades clasificadas en otra parte
+natural,Entesopatia,Trastornos de los tejidos blandos relacionados con el uso el uso excesivo y la presión
+natural,Entesopatia,Otras bursopatías
+natural,Entesopatia,Trastornos fibroblásticos
+natural,Entesopatia,Trastornos de los tejidos blandos en enfermedades clasificadas en otra parte
+natural,Entesopatia,Lesiones del hombro
+natural,Entesopatia,Entesopatías del miembro inferior excluido el pie
+natural,Entesopatia,Otras entesopatías
+natural,Entesopatia,Otros trastornos de los tejidos blandos no clasificados en otra parte
+natural,Trastornos de los Huesos,Osteoporosis con fractura patológica
+natural,Trastornos de los Huesos,Osteoporosis sin fractura patológica
+natural,Trastornos de los Huesos,Osteoporosis en enfermedades clasificadas en otra parte
+natural,Trastornos de los Huesos,Osteomalacia del adulto
+natural,Trastornos de los Huesos,Trastornos de la continuidad del hueso
+natural,Trastornos de los Huesos,Otros trastornos de la densidad y de la estructura óseas
+natural,Trastornos de los Huesos,Osteomielitis
+natural,Trastornos de los Huesos,Osteonecrosis
+natural,Trastornos de los Huesos,Enfermedad de Paget de los huesos [osteítis deformante]
+natural,Trastornos de los Huesos,Otros trastornos del hueso
+natural,Trastornos de los Huesos,Osteopatías en enfermedades clasificadas en otra parte
+natural,Trastornos de los Huesos,Osteocondrosis juvenil de la cadera y de la pelvis
+natural,Trastornos de los Huesos,Otras osteocondrosis juveniles
+natural,Trastornos de los Huesos,Otras osteocondropatías
+natural,Trastornos de los Huesos,Otros trastornos del cartílago
+natural,Trastornos de los Huesos,Otras deformidades adquiridas del sistema osteomuscular y del tejido conjuntivo
+natural,Trastornos de los Huesos,Trastornos osteomusculares consecutivos a procedimientos no clasificados en otra parte
+natural,Trastornos de los Huesos,Lesiones biomecánicas no clasificadas en otra parte
+natural,Trastornos del Riñon,Síndrome nefrítico agudo
+natural,Trastornos del Riñon,Síndrome nefrítico rápidamente progresivo
+natural,Trastornos del Riñon,Hematuria recurrente y persistente
+natural,Trastornos del Riñon,Síndrome nefrítico crónico
+natural,Trastornos del Riñon,Síndrome nefrótico
+natural,Trastornos del Riñon,Síndrome nefrítico no especificado
+natural,Trastornos del Riñon,Proteinuria aislada con lesión morfológica especificada
+natural,Trastornos del Riñon,Nefropatía hereditaria no clasificada en otra parte
+natural,Trastornos del Riñon,Trastornos glomerulares en enfermedades clasificadas en otra parte
+natural,Trastornos del Riñon,Nefritis tubulointersticial aguda
+natural,Trastornos del Riñon,Nefritis  tubulointersticial crónica
+natural,Trastornos del Riñon,Nefritis tubulointersticial no especificada como aguda o crónica
+natural,Trastornos del Riñon,Uropatía obstructiva y por reflujo
+natural,Trastornos del Riñon,Afecciones tubulares y tubulointersticiales inducidas por drogas y por metales pesados
+natural,Trastornos del Riñon,Otras enfermedades renales tubulointersticiales
+natural,Trastornos del Riñon,Trastornos renales tubulointersticiales en enfermedades clasificadas en otra parte
+natural,Trastornos del Riñon,Insuficiencia renal aguda
+natural,Trastornos del Riñon,Enfermedad renal crónica
+natural,Trastornos del Riñon,Insuficiencia renal no especificada
+natural,Trastornos del Riñon,Cálculo del riñón y del uréter
+natural,Trastornos del Riñon,Cálculo de las vías urinarias inferiores
+natural,Trastornos del Riñon,Cálculo de las vías urinarias en enfermedades clasificadas en otra parte
+natural,Trastornos del Riñon,Cólico renal no especificado
+natural,Trastornos del Riñon,Trastornos resultantes de la función tubular renal alterada
+natural,Trastornos del Riñon,Riñón contraído no especificado
+natural,Trastornos del Riñon,Riñón pequeño de causa desconocida
+natural,Trastornos del Riñon,Otros trastornos del riñón y del uréter no clasificados en otra parte
+natural,Trastornos del Riñon,Otros trastornos del riñón y del uréter en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Urinario,Cistitis
+natural,Trastornos del Sistema Urinario,Disfunción neuromuscular de la vejiga no clasificada en otra parte
+natural,Trastornos del Sistema Urinario,Otros trastornos de la vejiga
+natural,Trastornos del Sistema Urinario,Trastornos de la vejiga en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Urinario,Uretritis y síndrome uretral
+natural,Trastornos del Sistema Urinario,Estrechez uretral
+natural,Trastornos del Sistema Urinario,Otros trastornos de la uretra
+natural,Trastornos del Sistema Urinario,Trastornos de la uretra en enfermedades clasificadas en otra parte
+natural,Trastornos del Sistema Urinario,Otros trastornos del sistema urinario
+natural,Trastornos del Sistema Urinario,Dolor asociado con la micción
+natural,Trastornos del Sistema Urinario,Hematuria no especificada
+natural,Trastornos del Sistema Urinario,Incontinencia urinaria no especificada
+natural,Trastornos del Sistema Urinario,Retención de orina
+natural,Trastornos del Sistema Urinario,Anuria y oliguria
+natural,Trastornos del Sistema Urinario,Poliuria
+natural,Trastornos del Sistema Urinario,Descarga uretral
+natural,Trastornos del Sistema Urinario,Otros síntomas y signos que involucran el sistema urinario
+natural,Trastornos Cognoscitivos y de la Conciencia,Somnolencia estupor y coma
+natural,Trastornos Cognoscitivos y de la Conciencia,Otros síntomas y signos que involucran la función cognoscitiva y la conciencia
+natural,Trastornos Sensoriales y Perceptivos,Mareo y desvanecimiento
+natural,Trastornos Sensoriales y Perceptivos,Trastornos del olfato y del gusto
+natural,Trastornos Sensoriales y Perceptivos,Otros síntomas y signos que involucran las sensaciones y percepciones generales
+natural,Trastornos de los Organos Genitales Masculinos,Hiperplasia de la próstata
+natural,Trastornos de los Organos Genitales Masculinos,Enfermedades inflamatorias de la próstata
+natural,Trastornos de los Organos Genitales Masculinos,Otros trastornos de la próstata
+natural,Trastornos de los Organos Genitales Masculinos,Hidrocele y espermatocele
+natural,Trastornos de los Organos Genitales Masculinos,Torsión del testículo
+natural,Trastornos de los Organos Genitales Masculinos,Orquitis y epididimitis
+natural,Trastornos de los Organos Genitales Masculinos,Esterilidad en el varón
+natural,Trastornos de los Organos Genitales Masculinos,Prepucio redundante fimosis y parafimosis
+natural,Trastornos de los Organos Genitales Masculinos,Otros trastornos del pene
+natural,Trastornos de los Organos Genitales Masculinos,Trastornos inflamatorios de órganos genitales masculinos no clasificados en otra parte
+natural,Trastornos de los Organos Genitales Masculinos,Otros trastornos de los órganos genitales masculinos
+natural,Trastornos de los Organos Genitales Masculinos,Trastornos de los órganos genitales masculinos en enfermedades clasificadas en otra parte
+natural,Trastornos de la Mama,Displasia mamaria benigna
+natural,Trastornos de la Mama,Trastornos inflamatorios de la mama
+natural,Trastornos de la Mama,Hipertrofia de la mama
+natural,Trastornos de la Mama,Masa no especificada en la mama
+natural,Trastornos de la Mama,Otros trastornos de la mama
+natural,Trastornos de los Organos Genitales Femeninos,Salpingitis y ooforitis
+natural,Trastornos de los Organos Genitales Femeninos,Enfermedad inflamatoria del útero excepto del cuello uterino
+natural,Trastornos de los Organos Genitales Femeninos,Enfermedad inflamatoria del cuello uterino
+natural,Trastornos de los Organos Genitales Femeninos,Otras enfermedades pélvicas inflamatorias femeninas
+natural,Trastornos de los Organos Genitales Femeninos,Trastornos inflamatorios de la pelvis femenina en enfermedades clasificadas en otra parte
+natural,Trastornos de los Organos Genitales Femeninos,Enfermedades de la glándula de Bartholin
+natural,Trastornos de los Organos Genitales Femeninos,Otras afecciones inflamatorias de la vagina y de la vulva
+natural,Trastornos de los Organos Genitales Femeninos,Ulceración e inflamación vulvovaginal en enfermedades clasificadas en otra parte
+natural,Trastornos de los Organos Genitales Femeninos,Endometriosis
+natural,Trastornos de los Organos Genitales Femeninos,Prolapso genital femenino
+natural,Trastornos de los Organos Genitales Femeninos,Fístulas que afectan el tracto genital femenino
+natural,Trastornos de los Organos Genitales Femeninos,Tratornos no inflamatorios del ovario de la trompa de Falopio y del ligamento ancho
+natural,Trastornos de los Organos Genitales Femeninos,Pólipo del tracto genital femenino
+natural,Trastornos de los Organos Genitales Femeninos,Otros trastornos no inflamatorios del útero excepto del cuello
+natural,Trastornos de los Organos Genitales Femeninos,Erosión y ectropión del cuello del útero
+natural,Trastornos de los Organos Genitales Femeninos,Displasia del cuello uterino
+natural,Trastornos de los Organos Genitales Femeninos,Otros trastornos no inflamatorios del cuello del útero
+natural,Trastornos de los Organos Genitales Femeninos,Otros trastornos no inflamatorios de la vagina
+natural,Trastornos de los Organos Genitales Femeninos,Otros trastornos no inflamatorios de la vulva y del perineo
+natural,Trastornos de los Organos Genitales Femeninos,Menstruación ausente escasa o rara
+natural,Trastornos de los Organos Genitales Femeninos,Menstruación excesiva frecuente e irregular
+natural,Trastornos de los Organos Genitales Femeninos,Otras hemorragias uterinas o vaginales anormales
+natural,Trastornos de los Organos Genitales Femeninos,Dolor y otras afecciones relacionadas con los órganos genitales femeninos y con el ciclo menstrual
+natural,Trastornos de los Organos Genitales Femeninos,Otros trastornos menopáusicos y perimenopáusicos
+natural,Complicaciones Perinatales o Neonatales,Feto y recién nacido afectado por condiciones de la madre no necesariamente relacionadas con el embarazo presente
+natural,Complicaciones Perinatales o Neonatales,Feto y recién nacido afectados por complicaciones maternas del embarazo
+natural,Complicaciones Perinatales o Neonatales,Feto y recién nacido afectado por complicaciones de la placenta del cordón umbilical y de las membranas
+natural,Complicaciones Perinatales o Neonatales,Feto y recién nacido afectados por otras complicaciones del trabajo de parto y del parto
+natural,Complicaciones Perinatales o Neonatales,Feto y recién nacido afectados por influencias nocivas transmitidas a través de la placenta o de la leche materna
+natural,Complicaciones Perinatales o Neonatales,Retardo del crecimiento fetal y desnutrición fetal
+natural,Complicaciones Perinatales o Neonatales,Trastornos relacionados con duración corta de la gestación y con bajo peso al nacer no clasificados en otra parte
+natural,Complicaciones Perinatales o Neonatales,Trastornos relacionados con el embarazo prolongado y con sobrepeso al nacer
+natural,Complicaciones Perinatales o Neonatales,Hemorragia y laceración intracraneal debidas a traumatismo del nacimiento
+natural,Complicaciones Perinatales o Neonatales,Otros traumatismos del nacimiento en el sistema nervioso central
+natural,Complicaciones Perinatales o Neonatales,Traumatismo del nacimiento en el cuero cabelludo
+natural,Complicaciones Perinatales o Neonatales,Traumatismo del esqueleto durante el nacimiento
+natural,Complicaciones Perinatales o Neonatales,Traumatismo del sistema nervioso periférico durante el nacimiento
+natural,Complicaciones Perinatales o Neonatales,Otros traumatismos del nacimiento
+natural,Complicaciones Perinatales o Neonatales,Hipoxia intrauterina
+natural,Complicaciones Perinatales o Neonatales,Asfixia del nacimiento
+natural,Complicaciones Perinatales o Neonatales,Dificultad respiratoria del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Neumonía congénita
+natural,Complicaciones Perinatales o Neonatales,Síndromes de aspiración neonatal
+natural,Complicaciones Perinatales o Neonatales,Enfisema intersticial y afecciones relacionadas originadas en el período perinatal
+natural,Complicaciones Perinatales o Neonatales,Hemorragia pulmonar originada en el período perinatal
+natural,Complicaciones Perinatales o Neonatales,Enfermedad respiratoria crónica originada en el período perinatal
+natural,Complicaciones Perinatales o Neonatales,Otros problemas respiratorios del recién nacido originados en el período perinatal
+natural,Complicaciones Perinatales o Neonatales,Trastornos cardiovasculares originados en el período perinatal
+natural,Complicaciones Perinatales o Neonatales,Enfermedades virales congénitas
+natural,Complicaciones Perinatales o Neonatales,Sepsis bacteriana del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Otras enfermedades infecciosas y parasitarias congénitas
+natural,Complicaciones Perinatales o Neonatales,Onfalitis del recién nacido con o sin hemorragia leve
+natural,Complicaciones Perinatales o Neonatales,Otras infecciones especificas del período perinatal
+natural,Complicaciones Perinatales o Neonatales,Pérdida de sangre fetal
+natural,Complicaciones Perinatales o Neonatales,Hemorragia umbilical del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Hemorragia intracraneal no traumática del feto y del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Enfermedad hemorrágica del feto y del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Otras hemorragias neonatales
+natural,Complicaciones Perinatales o Neonatales,Enfermedad hemolítica del feto y del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Hidropesía fetal debida a enfermedad hemolítica
+natural,Complicaciones Perinatales o Neonatales,Kernicterus
+natural,Complicaciones Perinatales o Neonatales,Ictericia neonatal debida a otras hemólisis excesivas
+natural,Complicaciones Perinatales o Neonatales,Ictericia neonatal por otras causas y por las no especificadas
+natural,Complicaciones Perinatales o Neonatales,Coagulación intravascular diseminada en el feto y el recién nacido
+natural,Complicaciones Perinatales o Neonatales,Otros trastornos hematológicos perinatales
+natural,Complicaciones Perinatales o Neonatales,Trastornos transitorios del metabolismo de los carbohidratos específicos del feto y del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Trastornos neonatales transitorios del metabolismo del calcio y del magnesio
+natural,Complicaciones Perinatales o Neonatales,Otros trastornos endocrinos neonatales transitorios
+natural,Complicaciones Perinatales o Neonatales,Otras alteraciones metabólicas y electrolíticas neonatales transitorias
+natural,Complicaciones Perinatales o Neonatales,Íleo meconial en la fibrosis quística (E84.1†)
+natural,Complicaciones Perinatales o Neonatales,Otras obstrucciones intestinales del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Enterocolitis necrotizante del feto y del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Otros trastornos perinatales del sistema digestivo
+natural,Complicaciones Perinatales o Neonatales,Hipotermia del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Otras alteraciones de la regulación de la temperatura en el recién nacido
+natural,Complicaciones Perinatales o Neonatales,Otras afecciones de la piel especificas del feto y del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Convulsiones del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Otras alteraciones cerebrales del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Problemas de la ingestión de alimentos del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Reacciones e intoxicaciones debidas a drogas administradas al feto y al recién nacido
+natural,Complicaciones Perinatales o Neonatales,Trastornos del tono muscular del recién nacido
+natural,Complicaciones Perinatales o Neonatales,Muerte fetal de causa no especificada
+natural,Complicaciones Perinatales o Neonatales,Otras afecciones originadas en el período perinatal
+natural,Malformaciones Congenitas,Anencefalia y malformaciones congénitas similares
+natural,Malformaciones Congenitas,Encefalocele
+natural,Malformaciones Congenitas,Microcefalia
+natural,Malformaciones Congenitas,Hidrocéfalo congénito
+natural,Malformaciones Congenitas,Otras malformaciones congénitas del encéfalo
+natural,Malformaciones Congenitas,Espina bífida
+natural,Malformaciones Congenitas,Otras malformaciones congénitas de la médula espinal
+natural,Malformaciones Congenitas,Otras malformaciones congénitas del sistema nervioso
+natural,Malformaciones Congenitas,Malformaciones congénitas de los párpados del aparato lagrimal y de la órbita
+natural,Malformaciones Congenitas,Anoftalmía microftalmía y macroftalmía
+natural,Malformaciones Congenitas,Malformaciones congénitas del cristalino
+natural,Malformaciones Congenitas,Malformaciones congénitas del segmento anterior del ojo
+natural,Malformaciones Congenitas,Malformaciones congénitas del segmento posterior del ojo
+natural,Malformaciones Congenitas,Otras malformaciones congénitas del ojo
+natural,Malformaciones Congenitas,Malformaciones congénitas del oído que causan la alteración de la audición
+natural,Malformaciones Congenitas,Otras malformaciones congénitas del oído
+natural,Malformaciones Congenitas,Otras malformaciones congénitas del la cara y del cuello
+natural,Malformaciones Congenitas,Malformaciones congénitas de las cámaras cardíacas y sus conexiones
+natural,Malformaciones Congenitas,Malformaciones congénitas de los tabiques cardíacos
+natural,Malformaciones Congenitas,Malformaciones congénitas de la válvulas pulmonar y tricúspide
+natural,Malformaciones Congenitas,Malformaciones congénitas de las válvulas aórtica y mitral
+natural,Malformaciones Congenitas,Otras malformaciones congénitas del corazón
+natural,Malformaciones Congenitas,Malformaciones congénitas de las grandes arterias
+natural,Malformaciones Congenitas,Malformaciones congénitas de las grandes venas
+natural,Malformaciones Congenitas,Otras malformaciones congénitas del sistema vascular periférico
+natural,Malformaciones Congenitas,Otras malformaciones congénitas del sistema circulatorio
+natural,Malformaciones Congenitas,Malformaciones congénitas de la nariz
+natural,Malformaciones Congenitas,Malformaciones congénitas de la laringe
+natural,Malformaciones Congenitas,Malformaciones congénitas de la tráquea y de los bronquios
+natural,Malformaciones Congenitas,Malformaciones congénitas del pulmón
+natural,Malformaciones Congenitas,Otras malformaciones congénitas del sistema respiratorio
+natural,Malformaciones Congenitas,Fisura del paladar
+natural,Malformaciones Congenitas,Labio leporino
+natural,Malformaciones Congenitas,Fisura del paladar con labio leporino
+natural,Malformaciones Congenitas,Otras malformaciones congénitas de la lengua de la boca y de la faringe
+natural,Malformaciones Congenitas,Malformaciones congénitas del esófago
+natural,Malformaciones Congenitas,Otras malformaciones congénitas de la parte superior del tubo digestivo
+natural,Malformaciones Congenitas,Ausencia atresia y estenosis congénita del intestino delgado
+natural,Malformaciones Congenitas,Ausencia atresia y estenosis congénita del intestino grueso
+natural,Malformaciones Congenitas,Otras malformaciones congénitas del intestino
+natural,Malformaciones Congenitas,Malformaciones congénitas de la vesícula biliar de los conductos biliares y del hígado
+natural,Malformaciones Congenitas,Otras malformaciones congénitas del sistema digestivo
+natural,Malformaciones Congenitas,Malformaciones congénitas de los ovarios de las trompas de Falopio y de los ligamentos anchos
+natural,Malformaciones Congenitas,Malformaciones congénitas del útero y del cuello uterino
+natural,Malformaciones Congenitas,Otras malformaciones congénitas de los órganos genitales femeninos
+natural,Malformaciones Congenitas,Testículo no descendido
+natural,Malformaciones Congenitas,Hipospadias
+natural,Malformaciones Congenitas,Otras malformaciones congénitas de los órganos genitales masculinos
+natural,Malformaciones Congenitas,Sexo indeterminado y seudohermafroditismo
+natural,Malformaciones Congenitas,Agenesia renal y otras malformaciones hipoplásicas del riñón
+natural,Malformaciones Congenitas,Enfermedad quística del riñón
+natural,Malformaciones Congenitas,Defectos obstructivos congénitos de la pelvis renal y malformaciones congénitas del uréter
+natural,Malformaciones Congenitas,Otras malformaciones congénitas del riñón
+natural,Malformaciones Congenitas,Otras malformaciones congénitas del sistema urinario
+natural,Malformaciones Congenitas,Deformidades congénitas de la cadera
+natural,Malformaciones Congenitas,Deformidades congénitas de los pies
+natural,Malformaciones Congenitas,Deformidades osteomusculares congénitas de la cabeza de la cara de la columna vertebral y del tórax
+natural,Malformaciones Congenitas,Otras deformidades osteomusculares congénitas
+natural,Malformaciones Congenitas,Polidactilia
+natural,Malformaciones Congenitas,Sindactilia
+natural,Malformaciones Congenitas,Defectos por reducción del miembro superior
+natural,Malformaciones Congenitas,Defectos por reducción del miembro inferior
+natural,Malformaciones Congenitas,Defectos por reducción de miembro no especificado
+natural,Malformaciones Congenitas,Otras anomalías congénitas del (de los) miembro(s)
+natural,Malformaciones Congenitas,Otras malformaciones congénitas de los huesos del cráneo y de la cara
+natural,Malformaciones Congenitas,Malformaciones congénitas de la columna vertebral y tórax óseo
+natural,Malformaciones Congenitas,Osteocondrodisplasia con defecto del crecimiento de los huesos largos y de la columna vertebral
+natural,Malformaciones Congenitas,Otras osteocondrodisplasias
+natural,Malformaciones Congenitas,Malformaciones congénitas del sistema osteomuscular no clasificadas en otra parte
+natural,Malformaciones Congenitas,Ictiosis congénita
+natural,Malformaciones Congenitas,Epidermólisis bullosa
+natural,Malformaciones Congenitas,Otras malformaciones congénitas de la piel
+natural,Malformaciones Congenitas,Malformaciones congénitas de la mama
+natural,Malformaciones Congenitas,Otras malformaciones congénitas de las faneras
+natural,Malformaciones Congenitas,Facomatosis no clasificada en otra parte
+natural,Malformaciones Congenitas,Síndromes de malformaciones congénitas debidos a causas exógenas conocidas no clasificados en otra parte
+natural,Malformaciones Congenitas,Otros síndromes de malformaciones congénitas especificados que afectan múltiples sistemas
+natural,Malformaciones Congenitas,Otras malformaciones congénitas no clasificadas en otra parte
+natural,Otras causas naturales,Síntomas y signos que involucran el estado emocional
+natural,Otras causas naturales,Síntomas y signos que involucran la apariencia y el comportamiento
+natural,Otras causas naturales,Alteraciones del habla no clasificadas en otra parte
+natural,Otras causas naturales,Dislexia y otras disfunciones simbólicas no clasificadas en otra parte
+natural,Otras causas naturales,Alteraciones de la voz
+natural,Otras causas naturales,Cefalea
+natural,Otras causas naturales,Dolor no clasificado en otra parte
+natural,Otras causas naturales,Malestar y fatiga
+natural,Otras causas naturales,Senilidad
+natural,Otras causas naturales,Síncope y colapso
+natural,Otras causas naturales,Convulsiones no clasificadas en otra parte
+natural,Otras causas naturales,Choque no clasificado en otra parte
+natural,Otras causas naturales,Hemorragia no clasificada en otra parte
+natural,Otras causas naturales,Adenomegalia
+natural,Otras causas naturales,Edema no clasificado en otra parte
+natural,Otras causas naturales,Hiperhidrosis
+natural,Otras causas naturales,Falta del desarrollo fisiológico normal esperado
+natural,Otras causas naturales,Síntomas y signos concernientes a la alimentación y a la ingestión de líquidos
+natural,Otras causas naturales,Caquexia
+natural,Otras causas naturales,Síndrome de respuesta inflamatoria sistémica
+natural,Otras causas naturales,Otros síntomas y signos generales
+natural,Otras causas naturales,Causas de morbilidad desconocidas y no especificadas
+natural,Otras causas naturales,Velocidad de eritrosedimentación elevada y otras anormalidades de la viscosidad del plasma
+natural,Otras causas naturales,Anormalidad de los eritrocitos
+natural,Otras causas naturales,Anormalidades de los leucocitos no clasificadas en otra parte
+natural,Otras causas naturales,Nivel elevado de glucosa en sangre
+natural,Otras causas naturales,Nivel anormal de enzimas en suero
+natural,Otras causas naturales,Evidencias de laboratorio del virus de la inmunodeficiencia humana [VIH]
+natural,Otras causas naturales,Otros hallazgos inmunológicos anormales en suero
+natural,Otras causas naturales,Otras anormalidades de las proteínas plasmáticas
+natural,Otras causas naturales,Hallazgo de drogas y otras sustancias que normalmente no se encuentran en la sangre
+natural,Otras causas naturales,Otros hallazgos anormales en la química sanguínea
+natural,Otras causas naturales,Proteinuria aislada
+natural,Otras causas naturales,Glucosuria
+natural,Otras causas naturales,Otros hallazgos anormales en la orina
+natural,Otras causas naturales,Hallazgos anormales en el líquido cefalorraquídeo
+natural,Otras causas naturales,Hallazgos anormales en muestras tomadas de órganos respiratorios y torácicos
+natural,Otras causas naturales,Hallazgos anormales en muestras tomadas de órganos digestivos y de la cavidad abdominal
+natural,Otras causas naturales,Hallazgos anormales en muestras tomadas de órganos genitales masculinos
+natural,Otras causas naturales,Hallazgos anormales en muestras tomadas de órganos genitales femeninos
+natural,Otras causas naturales,Hallazgos anormales en muestras tomadas de otros órganos sistemas y tejidos
+natural,Otras causas naturales,Hallazgos anormales en diagnóstico por imagen del sistema nervioso central
+natural,Otras causas naturales,Hallazgos anormales en diagnóstico por imagen del pulmón
+natural,Otras causas naturales,Hallazgos anormales en diagnóstico por imagen de la mama
+natural,Otras causas naturales,Hallazgos anormales en diagnóstico por imagen de otras estructuras del cuerpo
+natural,Otras causas naturales,Resultados anormales de estudios funcionales
+natural,Otras causas naturales,Síndrome de la muerte súbita infantil
+natural,Otras causas naturales,Otras muertes súbitas de causa desconocida
+natural,Otras causas naturales,Muerte sin asistencia
+natural,Otras causas naturales,Otras causas mal definidas y las no especificadas de mortalidad
+natural,Otras causas naturales,Estado de infección asintomática por el virus de la inmunodeficiencia humana [VIH]
+natural,Otras causas naturales,Portador de agente de enfermedad infecciosa
+natural,Resistencia a drogas,Resistencia a antibioticos betalactamicos
+natural,Resistencia a drogas,Resistencia a antibióticos betalactámicos
+natural,Resistencia a drogas,Resistencia a otros antibioticos
+natural,Resistencia a drogas,Resistencia a otros antibióticos
+natural,Resistencia a drogas,Resistencia a otras drogas antimicrobianas
+natural,Resistencia a drogas,Resistencia a drogas antineoplásicas
+natural,Hemorragia Intracraneal,Hemorragia subaracnoidea
+natural,Hemorragia Intracraneal,Hemorragia intraencefálica
+natural,Hemorragia Intracraneal,Otras hemorragias intracraneales no traumáticas
+natural,Enfermedad Cerebrovascular,Infarto cerebral
+natural,Enfermedad Cerebrovascular,Accidente vascular encefálico agudo no especificado como hemorrágico o isquémico
+natural,Enfermedad Cerebrovascular,Oclusión y estenosis de las arterias precerebrales sin  ocasionar infarto cerebral
+natural,Enfermedad Cerebrovascular,Oclusión y estenosis de las arterias cerebrales sin  ocasionar infarto cerebral
+natural,Enfermedad Cerebrovascular,Otras enfermedades cerebrovasculares
+natural,Enfermedad Cerebrovascular,Trastornos cerebrovasculares en enfermedades clasificadas en otra parte
+natural,Enfermedad Cerebrovascular,Secuelas de enfermedad cerebrovascular
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Abortadora habitual
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Infertilidad femenina
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Complicaciones asociadas con la fecundación artificial
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Trastornos del sistema genitourinario consecutivos a procedimientos no clasificados en otra parte
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Embarazo ectópico
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Mola hidatiforme
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Otros productos anormales  de la concepción
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Aborto espontáneo
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Aborto médico
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Otro aborto
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Aborto no especificado
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Intento fallido de aborto
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Complicaciones consecutivas al aborto al embarazo ectópico y al embarazo molar
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Hipertensión preexistente que complica el embarazo el parto y el puerperio
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Preeclampsia superpuesta en hipertensión crónica
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Edema y proteinuria gestacionales [inducidos por el embarazo] sin hipertensión
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Hipertensión gestacional [inducida por el embarazo]
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Preeclampsia
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Eclampsia
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Hipertensión materna no especificada
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Hemorragia precoz del embarazo
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Vómitos excesivos del embarazo
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Complicaciones venosas y hemorroides en el embarazo
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Infección de las vías genitourinarias en el embarazo
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Diabetes mellitus en el embarazo
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Desnutrición en el embarazo
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Atención a la madre por otras complicaciones principalmente relacionadas con el embarazo
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Hallazgos anormales en el examen prenatal de la madre
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Complicaciones de la anestesia administrada durante el embarazo
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Embarazo múltiple
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Complicaciones específicas del embarazo múltiple
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Atención materna por presentación anormal del feto conocida o presunta
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Atención materna por desproporción conocida o presunta
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Atención materna por anormalidades conocidas o presuntas de los órganos pelvianos de la madre
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Atención materna por anormalidad o lesión fetal conocida o presunta
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Atención materna por otros problemas fetales conocidos o presuntos
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Polihidramnios
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Otros trastornos del líquido amniótico y de las membranas
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Ruptura prematura de las membranas
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Trastornos placentarios
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Placenta previa
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Desprendimiento prematuro de la placenta [Abruptio placentae]
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Hemorragia anteparto no clasificada en otra parte
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Falso trabajo de parto
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Embarazo prolongado
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Parto prematuro
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Fracaso de la inducción del trabajo de parto
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Anormalidades de la dinámica del trabajo de parto
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Trabajo de parto prolongado
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Trabajo de parto obstruido debido a mala posición y presentación anormal del feto
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Trabajo de parto obstruido debido a anormalidad de la pelvis materna
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Otras obstrucciones del trabajo de parto
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Trabajo de parto y parto complicados por hemorragia intraparto no clasificados en otra parte
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Trabajo de parto y parto complicados por sufrimiento fetal
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Trabajo de parto y parto complicados por problemas del cordón umbilical
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Desgarro perineal durante el parto
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Otro trauma obstétrico
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Hemorragia postparto
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Retención de la placenta o de las membranas sin hemorragia
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Complicaciones de la anestesia administrada durante el trabajo de parto y el parto
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Otras complicaciones del trabajo de parto y del parto no clasificadas en otra parte
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Parto único espontáneo
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Parto único con fórceps y ventosa extractora
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Parto único por cesárea
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Otros partos únicos asistidos
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Parto múltiple
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Sepsis puerperal
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Otras infecciones puerperales
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Complicaciones venosas y hemorroides en el puerperio
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Embolia obstétrica
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Complicaciones de la anestesia administrada durante el puerperio
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Complicaciones del puerperio no clasificadas en otra parte
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Infecciones de la mama asociadas con el parto
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Otros trastornos de la mama y de la lactancia asociados con el parto
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Secuelas de complicaciones del embarazo del parto y del puerperio
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Muerte obstétrica de causa no especificada
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Muerte materna debida a cualquier causa obstétrica que ocurre después de 42 días pero antes de un año del parto
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Muerte por secuelas de causas obstétricas
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Enfermedades maternas infecciosas y parasitarias clasificables en otra parte pero que complican el embarazo el parto y el puerperio
+natural,"Complicaciones en Embarazo, Parto o Puerperio",Otras enfermedades maternas clasificables en otra parte pero que complican el embarazo el parto y el puerperio
+natural,Anomalia Cromosomica,Síndrome de Down
+natural,Anomalia Cromosomica,Síndrome de Edwards y síndrome  de Patau
+natural,Anomalia Cromosomica,Otras trisomías y trisomías parciales de los autosomas no clasificadas en otra parte
+natural,Anomalia Cromosomica,Monosomías y supresiones de los autosomas no  clasificadas en otra parte
+natural,Anomalia Cromosomica,Reordenamientos equilibrados y marcadores estructurales no clasificados en otra parte
+natural,Anomalia Cromosomica,Síndrome de Turner
+natural,Anomalia Cromosomica,Otras anomalías de los cromosomas sexuales con fenotipo femenino no clasificadas en otra parte
+natural,Anomalia Cromosomica,Otras anomalías de los cromosomas sexuales con fenotipo masculino no clasificadas en otra parte
+natural,Anomalia Cromosomica,Otras anomalías cromosómicas no clasificadas en otra parte
+natural,Trastornos que involucran el sistema nervioso y osteomuscular,Movimientos involuntarios anormales
+natural,Trastornos que involucran el sistema nervioso y osteomuscular,Anormalidades de la marcha y de la movilidad
+natural,Trastornos que involucran el sistema nervioso y osteomuscular,Otras fallas de coordinación
+natural,Trastornos que involucran el sistema nervioso y osteomuscular,Otros síntomas y signos que involucran los sistemas nervioso y osteomuscular
+violenta,Heridas y Traumatismos,Traumatismo superficial de la cabeza
+violenta,Heridas y Traumatismos,Herida de la cabeza
+violenta,Heridas y Traumatismos,Fractura de huesos del cráneo y de la cara
+violenta,Heridas y Traumatismos,Luxación esguince y torcedura de articulaciones y de ligamentos de la cabeza
+violenta,Heridas y Traumatismos,Traumatismo de nervios craneales
+violenta,Heridas y Traumatismos,Traumatismo del ojo y de la órbita
+violenta,Heridas y Traumatismos,Traumatismo intracraneal
+violenta,Heridas y Traumatismos,Traumatismo por aplastamiento de la cabeza
+violenta,Heridas y Traumatismos,Amputación traumática de parte de la cabeza
+violenta,Heridas y Traumatismos,Otros traumatismos y los no especificados de la cabeza
+violenta,Heridas y Traumatismos,Traumatismo superficial del cuello
+violenta,Heridas y Traumatismos,Herida del cuello
+violenta,Heridas y Traumatismos,Fractura del cuello
+violenta,Heridas y Traumatismos,Luxación esguince y torcedura de articulaciones y ligamentos del cuello
+violenta,Heridas y Traumatismos,Traumatismo de la médula espinal y de nervios a nivel del cuello
+violenta,Heridas y Traumatismos,Traumatismo de vasos sanguíneos a nivel del cuello
+violenta,Heridas y Traumatismos,Traumatismo de tendón y músculos a nivel del cuello
+violenta,Heridas y Traumatismos,Traumatismo por aplastamiento del cuello
+violenta,Heridas y Traumatismos,Amputación traumática a nivel del cuello
+violenta,Heridas y Traumatismos,Otros traumatismos y los no especificados del cuello
+violenta,Heridas y Traumatismos,Traumatismo superficial del tórax
+violenta,Heridas y Traumatismos,Herida del tórax
+violenta,Heridas y Traumatismos,Fractura de las costillas del esternón y de la columna torácica [dorsal]
+violenta,Heridas y Traumatismos,Luxación esguince y torcedura de articulaciones y ligamentos del tórax
+violenta,Heridas y Traumatismos,Traumatismo de nervios y de la médula espinal a nivel del tórax
+violenta,Heridas y Traumatismos,Traumatismo de vasos sanguíneos del tórax
+violenta,Heridas y Traumatismos,Traumatismo del corazón
+violenta,Heridas y Traumatismos,Traumatismo de otros órganos intratorácicos y de los no especificados
+violenta,Heridas y Traumatismos,Traumatismo por aplastamiento del tórax y amputación traumática de parte del tórax
+violenta,Heridas y Traumatismos,Otros traumatismos y los no especificados del tórax
+violenta,Heridas y Traumatismos,Traumatismo superficial del abdomen de la región lumbosacra y de la pelvis
+violenta,Heridas y Traumatismos,Herida del abdomen de la región lumbosacra y de la pelvis
+violenta,Heridas y Traumatismos,Fractura de la columna lumbar y de la pelvis
+violenta,Heridas y Traumatismos,Luxación esguince y torcedura de articulaciones y ligamentos de la columna lumbar y de la pelvis
+violenta,Heridas y Traumatismos,Traumatismo de los nervios y de la médula espinal lumbar a nivel del abdomen de la región lumbosacra y de la pelvis
+violenta,Heridas y Traumatismos,Traumatismo de vasos sanguíneos a nivel del abdomen de la región lumbosacra y de la pelvis
+violenta,Heridas y Traumatismos,Traumatismo de órganos intraabdominales
+violenta,Heridas y Traumatismos,Traumatismo del aparato urinario y de los órganos pélvicos
+violenta,Heridas y Traumatismos,Traumatismo por aplastamiento y amputación traumática de parte del abdomen de la región lumbosacra y de la pelvis
+violenta,Heridas y Traumatismos,Otros traumatismos y los no especificados del abdomen de la región lumbosacra y de la pelvis
+violenta,Heridas y Traumatismos,Traumatismo superificial del hombro y del brazo
+violenta,Heridas y Traumatismos,Herida del hombro y del brazo
+violenta,Heridas y Traumatismos,Fractura del hombro y del brazo
+violenta,Heridas y Traumatismos,Luxación esguince y torcedura de articulaciones y ligamentos de la cintura escapular
+violenta,Heridas y Traumatismos,Traumatismo de nervios a nivel del hombro y del brazo
+violenta,Heridas y Traumatismos,Traumatismo de vasos sanguíneos a nivel del hombro y del brazo
+violenta,Heridas y Traumatismos,Traumatismo de tendón y músculo a nivel del hombro y del brazo
+violenta,Heridas y Traumatismos,Traumatismo por aplastamiento del hombro y del brazo
+violenta,Heridas y Traumatismos,Amputación traumática del hombro y del brazo
+violenta,Heridas y Traumatismos,Otros traumatismos y los no especificados del hombro y del brazo
+violenta,Heridas y Traumatismos,Traumatismo superficial del antebrazo y del codo
+violenta,Heridas y Traumatismos,Herida del antebrazo y del codo
+violenta,Heridas y Traumatismos,Fractura del antebrazo
+violenta,Heridas y Traumatismos,Luxación esguince y torcedura de articulaciones y ligamentos del codo
+violenta,Heridas y Traumatismos,Traumatismo de nervios a nivel del antebrazo
+violenta,Heridas y Traumatismos,Traumatismo de los vasos sanguíneos a nivel del antebrazo
+violenta,Heridas y Traumatismos,Traumatismo de tendón y músculo a nivel del antebrazo
+violenta,Heridas y Traumatismos,Traumatismo por aplastamiento del antebrazo
+violenta,Heridas y Traumatismos,Amputación traumática del antebrazo
+violenta,Heridas y Traumatismos,Otros traumatismos y los no especificados del antebrazo
+violenta,Heridas y Traumatismos,Traumatismo superficial de la muñeca y de la mano
+violenta,Heridas y Traumatismos,Herida de la muñeca y de la mano
+violenta,Heridas y Traumatismos,Fractura a nivel de la muñeca y de la mano
+violenta,Heridas y Traumatismos,Luxación esguince y torcedura de articulaciones y ligamentos a nivel de la muñeca y de la mano
+violenta,Heridas y Traumatismos,Traumatismo de nervios a nivel de la muñeca y de la mano
+violenta,Heridas y Traumatismos,Traumatismo de vasos sanguíneos a nivel de la muñeca y de la mano
+violenta,Heridas y Traumatismos,Traumatismo de tendón y músculo a nivel de la muñeca y de la mano
+violenta,Heridas y Traumatismos,Traumatismo por aplastamiento de la muñeca y de la mano
+violenta,Heridas y Traumatismos,Amputación traumática de la muñeca y de la mano
+violenta,Heridas y Traumatismos,Otros traumatismos y los no especificados de la muñeca y de la mano
+violenta,Heridas y Traumatismos,Traumatismo superficial de la cadera y del muslo
+violenta,Heridas y Traumatismos,Herida de la cadera y del muslo
+violenta,Heridas y Traumatismos,Fractura del fémur
+violenta,Heridas y Traumatismos,Luxación esguince y torcedura de la articulación y de los ligamentos de la cadera
+violenta,Heridas y Traumatismos,Traumatismo de nervios a nivel de la cadera y del muslo
+violenta,Heridas y Traumatismos,Traumatismo de vasos sanguíneos a nivel de la cadera y del muslo
+violenta,Heridas y Traumatismos,Traumatismo de tendón y músculo a nivel de la cadera y del muslo
+violenta,Heridas y Traumatismos,Traumatismo por aplastamiento de la cadera y del muslo
+violenta,Heridas y Traumatismos,Amputación traumática de la cadera y del muslo
+violenta,Heridas y Traumatismos,Otros traumatismos y los no especificados de la cadera y del muslo
+violenta,Heridas y Traumatismos,Traumatismo superficial de la pierna
+violenta,Heridas y Traumatismos,Herida de la pierna
+violenta,Heridas y Traumatismos,Fractura de la pierna inclusive del tobillo
+violenta,Heridas y Traumatismos,Luxación esguince y torcedura de articulaciones y ligamentos de la rodilla
+violenta,Heridas y Traumatismos,Traumatismo de nervios a nivel de la pierna
+violenta,Heridas y Traumatismos,Traumatismo de vasos sanguíneos a nivel de la pierna
+violenta,Heridas y Traumatismos,Traumatismo de tendón y músculo a nivel de la pierna
+violenta,Heridas y Traumatismos,Traumatismo por aplastamiento de la pierna
+violenta,Heridas y Traumatismos,Amputación traumática de la pierna
+violenta,Heridas y Traumatismos,Otros traumatismos y los no especificados de la pierna
+violenta,Heridas y Traumatismos,Traumatismo superficial del tobillo y del pie
+violenta,Heridas y Traumatismos,Herida del tobillo y del pie
+violenta,Heridas y Traumatismos,Fractura del pie excepto del tobillo
+violenta,Heridas y Traumatismos,Luxación esguince y torcedura de articulaciones y ligamentos del tobillo y del pie
+violenta,Heridas y Traumatismos,Traumatismo de nervios a nivel del pie y del tobillo
+violenta,Heridas y Traumatismos,Traumatismo de vasos sanguíneos a nivel del pie y del tobillo
+violenta,Heridas y Traumatismos,Traumatismo de tendón y músculo a nivel del pie y del tobillo
+violenta,Heridas y Traumatismos,Traumatismo por aplastamiento del pie y del tobillo
+violenta,Heridas y Traumatismos,Amputación traumática del pie y del tobillo
+violenta,Heridas y Traumatismos,Otros traumatismos y los no especificados del pie y del tobillo
+violenta,Heridas y Traumatismos,Traumatismos superficiales que afectan múltiples regiones del cuerpo
+violenta,Heridas y Traumatismos,Heridas que afectan múltiples regiones del cuerpo
+violenta,Heridas y Traumatismos,Fracturas que afectan múltiples regiones del cuerpo
+violenta,Heridas y Traumatismos,Luxaciones torceduras y esguinces que afectan múltiples regiones del cuerpo
+violenta,Heridas y Traumatismos,Traumatismos por aplastamiento que afectan múltiples regiones del cuerpo
+violenta,Heridas y Traumatismos,Amputaciones traumáticas  que afectan múltiples regiones del cuerpo
+violenta,Heridas y Traumatismos,Otros traumatismos que afectan múltiples regiones del cuerpo no clasificados en otra parte
+violenta,Heridas y Traumatismos,Traumatismos múltiples no especificados
+violenta,Heridas y Traumatismos,Fractura de la columna vertebral nivel no especificado
+violenta,Heridas y Traumatismos,Otros traumatismos de la columna vertebral y del tronco nivel no especificado
+violenta,Heridas y Traumatismos,Fractura de miembro superior nivel no especificado
+violenta,Heridas y Traumatismos,Otros traumatismos de miembro superior nivel no especificado
+violenta,Heridas y Traumatismos,Fractura de miembro inferior nivel no especificado
+violenta,Heridas y Traumatismos,Otros traumatismos de miembro inferior nivel no especificado
+violenta,Heridas y Traumatismos,Traumatismo de regiones no especificadas del cuerpo
+violenta,Cuerpo Extraño,Cuerpo extraño en parte externa del ojo
+violenta,Cuerpo Extraño,Cuerpo extraño del oído
+violenta,Cuerpo Extraño,Cuerpo extraño en las vías respiratorias
+violenta,Cuerpo Extraño,Cuerpo extraño en el tubo digestivo
+violenta,Cuerpo Extraño,Cuerpo extraño en las vías genitourinarias
+violenta,Quemadura y Corrosion,Quemadura y corrosión de la cabeza y del cuello
+violenta,Quemadura y Corrosion,Quemadura y corrosión del tronco
+violenta,Quemadura y Corrosion,Quemadura y corrosión del hombro y miembro superior excepto de la muñeca y de la mano
+violenta,Quemadura y Corrosion,Quemadura y corrosión de la muñeca y de la mano
+violenta,Quemadura y Corrosion,Quemadura y corrosión de la cadera y miembro inferior excepto tobillo y pie
+violenta,Quemadura y Corrosion,Quemadura y corrosión del tobillo y del pie
+violenta,Quemadura y Corrosion,Quemadura y corrosión limitada al ojo y sus anexos
+violenta,Quemadura y Corrosion,Quemadura y corrosión de las vías respiratorias
+violenta,Quemadura y Corrosion,Quemadura y corrosión de otros órganos internos
+violenta,Quemadura y Corrosion,Quemaduras y corrosiones de múltiples regiones del cuerpo
+violenta,Quemadura y Corrosion,Quemadura y corrosión región del cuerpo no especificada
+violenta,Quemadura y Corrosion,Quemaduras clasificadas según la extensión de la superficie del cuerpo afectada
+violenta,Quemadura y Corrosion,Corrosiones clasificadas según la extensión de la superficie del cuerpo afectada
+violenta,Congelamiento,Congelamiento superficial
+violenta,Congelamiento,Congelamiento con necrosis tisular
+violenta,Congelamiento,Congelamiento que afecta múltiples regiones del cuerpo y congelamiento no especificado
+violenta,Envenenamiento,Envenenamiento por antibióticos sistémicos
+violenta,Envenenamiento,Envenenamiento por otros antiinfecciosos y antiparasitarios sistémicos
+violenta,Envenenamiento,Envenenamiento por hormonas y sus sustitutos y antagonistas sintéticos no clasificados en otra parte
+violenta,Envenenamiento,Envenenamiento por analgésicos no narcóticos antipiréticos y antirreumáticos
+violenta,Envenenamiento,Envenenamiento por narcóticos y psicodislépticos (alucinógenos)
+violenta,Envenenamiento,Envenenamiento por anestésicos y gases terapéuticos
+violenta,Envenenamiento,Envenenamiento por antiepilépticos hipnóticos-sedantes y drogas antiparkinsonianas
+violenta,Envenenamiento,Envenenamiento por psicotrópicos no clasificados en otra parte
+violenta,Envenenamiento,Envenenamiento por drogas que afectan principalmente el sistema nervioso autónomo
+violenta,Envenenamiento,Envenenamiento por agentes principalmente sistémicos y hematológicos no clasificados en otra parte
+violenta,Envenenamiento,Envenenamiento por agentes que afectan principalmente el sistema cardiovascular
+violenta,Envenenamiento,Envenenamiento por agentes que afectan principalmente el sistema gastrointestinal
+violenta,Envenenamiento,Envenenamiento por agentes con acción principal sobre los músculos lisos y esqueléticos y sobre el sistema respiratorio
+violenta,Envenenamiento,Envenenamiento por agentes tópicos que afectan principalmente la piel y las membranas mucosas y por drogas oftalmológicas otorrinolaringológicas y dentales
+violenta,Envenenamiento,Envenenamiento por diuréticos y otras drogas medicamentos y sustancias biológicas no especificadas
+violenta,Efectos Toxicos,Efecto tóxico del alcohol
+violenta,Efectos Toxicos,Efecto tóxico de disolventes orgánicos
+violenta,Efectos Toxicos,Efecto tóxico de los derivados halogenados de los hidrocarburos alifáticos y aromáticos
+violenta,Efectos Toxicos,Efecto tóxico de sustancias corrosivas
+violenta,Efectos Toxicos,Efecto tóxico de detergentes y jabones
+violenta,Efectos Toxicos,Efecto tóxico de metales
+violenta,Efectos Toxicos,Efecto tóxico de otras sustancias inorgánicas
+violenta,Efectos Toxicos,Efecto tóxico del monóxido de carbono
+violenta,Efectos Toxicos,Efecto tóxico de otros gases humos y vapores
+violenta,Efectos Toxicos,Efecto tóxico de plaguicidas (pesticidas)
+violenta,Efectos Toxicos,Efecto tóxico de sustancias nocivas ingeridas como alimentos marinos
+violenta,Efectos Toxicos,Efecto tóxico de otras sustancias nocivas ingeridas como alimento
+violenta,Efectos Toxicos,Efecto tóxico del contacto con animales venenosos
+violenta,Efectos Toxicos,Efecto tóxico de aflatoxina y otras micotoxinas contaminantes de alimentos
+violenta,Efectos Toxicos,Efecto tóxico de otras sustancias y las no especificadas
+violenta,Efectos Ambientales,Efectos no especificados de la radiación
+violenta,Efectos Ambientales,Efectos del calor y de la luz
+violenta,Efectos Ambientales,Hipotermia
+violenta,Efectos Ambientales,Otros efectos de la reducción de la temperatura
+violenta,Efectos Ambientales,Efectos de la presión del aire y de la presión del agua
+violenta,Causas Externas,Síndrome del maltrato
+violenta,Causas Externas,Efectos de otras causas externas
+violenta,Causas Externas,Efectos adversos no clasificados en otra parte
+violenta,Causas Externas,Algunas complicaciones precoces de traumatismos no clasificadas en otra parte
+violenta,Complicaciones de Atencion Medica y Quirurjica,Complicaciones consecutivas a infusión transfusión e inyección terapéutica
+violenta,Complicaciones de Atencion Medica y Quirurjica,Complicaciones de procedimientos no clasificadas en otra parte
+violenta,Complicaciones de Atencion Medica y Quirurjica,Complicaciones de dispositivos protésicos implantes e injertos cardiovasculares
+violenta,Complicaciones de Atencion Medica y Quirurjica,Complicaciones de dispositivos implantes e injertos genitourinarios
+violenta,Complicaciones de Atencion Medica y Quirurjica,Complicaciones de dispositivos protésicos implantes e injertos ortopédicos internos
+violenta,Complicaciones de Atencion Medica y Quirurjica,Complicaciones de otros dispositivos protésicos implantes e injertos internos
+violenta,Complicaciones de Atencion Medica y Quirurjica,Falla y rechazo del trasplante de órganos y tejidos
+violenta,Complicaciones de Atencion Medica y Quirurjica,Complicaciones peculiares de la reinserción y amputación
+violenta,Complicaciones de Atencion Medica y Quirurjica,Otras complicaciones de la atención médica y quirúrgica no clasificadas en otra parte
+violenta,Caida,Caída en el mismo nivel por hielo o nieve
+violenta,Caida,Caída en el mismo nivel por deslizamiento tropezón y traspié
+violenta,Caida,Caída por patines para hielo esquís patines de ruedas o patineta
+violenta,Caida,Otras caídas en el mismo nivel por colisión con o por empujón de otra persona
+violenta,Caida,Caída al ser trasladado o sostenido por otras personas
+violenta,Caida,Caída que implica silla de ruedas
+violenta,Caida,Caída que implica cama
+violenta,Caida,Caída que implica silla
+violenta,Caida,Caída que implica otro mueble
+violenta,Caida,Caída que implica equipos para juegos infantiles
+violenta,Caida,Caída en o desde escalera o escalones
+violenta,Caida,Caída en o desde escalera manuales
+violenta,Caida,Caída en o desde andamio
+violenta,Caida,Caída desde fuera o a través de un edificio u otra construcción
+violenta,Caida,Caída desde un árbol
+violenta,Caida,Caída desde peñasco
+violenta,Caida,Salto o zambullida dentro del agua que causa otro traumatismo sin sumersión o ahogamiento
+violenta,Caida,Otras caídas de un nivel a otro
+violenta,Caida,Otras caídas en el mismo nivel
+violenta,Caida,Caída no especificada
+violenta,Accidente de Transporte,Peatón lesionado por colisión con vehículo de pedal
+violenta,Accidente de Transporte,Peatón lesionado por colisión con vehículo de motor de dos o tres ruedas
+violenta,Accidente de Transporte,Peatón lesionado por colisión con automóvil camioneta o furgoneta
+violenta,Accidente de Transporte,Peatón lesionado por colisión con vehículo de transporte pesado o autobús
+violenta,Accidente de Transporte,Peatón lesionado por colisión con tren o vehículo de rieles
+violenta,Accidente de Transporte,Peatón lesionado por colisión con otros vehículos sin motor
+violenta,Accidente de Transporte,Peatón lesionado en otros accidentes de transporte y en los no especificados
+violenta,Accidente de Transporte,Ciclista lesionado por colisión con peatón o animal
+violenta,Accidente de Transporte,Ciclista lesionado por colisión con otro ciclista
+violenta,Accidente de Transporte,Ciclista lesionado por colisión con vehículo de motor de dos o tres ruedas.
+violenta,Accidente de Transporte,Ciclista lesionado por colisión con automóvil camioneta o furgoneta
+violenta,Accidente de Transporte,Ciclista lesionado por colisión con vehículo de transporte pesado o autobús
+violenta,Accidente de Transporte,Ciclista lesionado por colisión con tren o vehículo de rieles
+violenta,Accidente de Transporte,Ciclista lesionado por colisión con otros vehículos sin motor
+violenta,Accidente de Transporte,Ciclista lesionado por colisión con objeto estacionado o fijo
+violenta,Accidente de Transporte,Ciclista lesionado en accidente de transporte sin colisión
+violenta,Accidente de Transporte,Ciclista lesionado en otros accidentes de transporte y en los no especificados.
+violenta,Accidente de Transporte,Motociclista lesionado por colisión con peatón o animal
+violenta,Accidente de Transporte,Motociclista lesionado por colisión con vehículo de pedal
+violenta,Accidente de Transporte,Motociclista lesionado por colisión con vehículo de motor de dos o tres ruedas
+violenta,Accidente de Transporte,Motociclista lesionado por colisión con automóvil camioneta o furgoneta
+violenta,Accidente de Transporte,Motociclista lesionado por colisión con vehículo de transporte pesado o autobús
+violenta,Accidente de Transporte,Motociclista lesionado por colisión con tren o vehículo de rieles
+violenta,Accidente de Transporte,Motociclista lesionado por colisión con otros vehículos sin motor
+violenta,Accidente de Transporte,Motociclista lesionado por colisión con objeto fijo o estacionado
+violenta,Accidente de Transporte,Motociclista lesionado en accidente de transporte sin colisión
+violenta,Accidente de Transporte,Motociclista lesionado en otros accidentes de transporte y en los no especificados
+violenta,Accidente de Transporte,Ocupante de vehículo de motor de tres ruedas lesionado por colisión con peatón o animal
+violenta,Accidente de Transporte,Ocupante de vehículo de motor de tres ruedas lesionado por colisión con vehículo de pedal
+violenta,Accidente de Transporte,Ocupante de vehículo de motor de tres ruedas lesionado por colisión con otro vehículo de motor de dos o tres ruedas
+violenta,Accidente de Transporte,Ocupante de vehículo de motor de tres ruedas lesionado por colisión con automóvil camioneta o furgoneta
+violenta,Accidente de Transporte,Ocupante de vehículo de motor de tres ruedas lesionado por colisión con vehículo de transporte pesado o autobús
+violenta,Accidente de Transporte,Ocupante de vehículo de motor de tres ruedas lesionado por colisión con tren o vehículo de rieles
+violenta,Accidente de Transporte,Ocupante de vehículo de motor de tres ruedas lesionado por colisión con otros vehículos sin motor
+violenta,Accidente de Transporte,Ocupante de vehículo de motor de tres ruedas lesionado por  colisión con objeto fijo o estacionado
+violenta,Accidente de Transporte,Ocupante de vehículo de motor de tres ruedas lesionado en accidente de transporte sin colisión
+violenta,Accidente de Transporte,Ocupante de vehículo de motor de tres ruedas lesionado en otros accidentes de transporte y en los no especificados
+violenta,Accidente de Transporte,Ocupante de automóvil lesionado por colisión con peatón o animal
+violenta,Accidente de Transporte,Ocupante de automóvil lesionado por colisión con vehículo de pedal
+violenta,Accidente de Transporte,Ocupante de automóvil lesionado por colisión con vehículo de motor de dos o tres ruedas
+violenta,Accidente de Transporte,Ocupante de automóvil lesionado por colisión con otro automóvil camioneta o furgoneta
+violenta,Accidente de Transporte,Ocupante de automóvil lesionado por colisión con  vehículo de transporte pesado o autobús
+violenta,Accidente de Transporte,Ocupante de automóvil lesionado por colisión con tren o vehículo de rieles
+violenta,Accidente de Transporte,Ocupante de automóvil lesionado por colisión con otros vehículos sin motor
+violenta,Accidente de Transporte,Ocupante de automóvil lesionado por colisión con objeto fijo o estacionado
+violenta,Accidente de Transporte,Ocupante de automóvil lesionado en accidente de transporte sin colisión
+violenta,Accidente de Transporte,Ocupante de automóvil lesionado en otros accidentes de transporte y en los no especificados
+violenta,Accidente de Transporte,Ocupante de camioneta o furgoneta lesionado por colisión con peatón o animal
+violenta,Accidente de Transporte,Ocupante de camioneta o furgoneta lesionado por colisión con vehículo de pedal
+violenta,Accidente de Transporte,Ocupante de camioneta  o furgoneta lesionado por colisión con vehículo de motor de dos o tres ruedas
+violenta,Accidente de Transporte,Ocupante de camioneta o furgoneta lesionado por colisión con automóvil camioneta o furgoneta
+violenta,Accidente de Transporte,Ocupante de camioneta o furgoneta lesionado por colisión con vehículo de transporte pesado o autobús
+violenta,Accidente de Transporte,Ocupante de camioneta o furgoneta lesionado por colisión con tren o vehículo de rieles
+violenta,Accidente de Transporte,Ocupante de camioneta o furgoneta lesionado por colisión con otros vehículos sin motor
+violenta,Accidente de Transporte,Ocupante de camioneta o furgoneta lesionado por colisión objeto fijo o estacionado
+violenta,Accidente de Transporte,Ocupante de camioneta o furgoneta lesionado en accidente de transporte sin colisión
+violenta,Accidente de Transporte,Ocupante de camioneta o furgoneta lesionado en otros accidentes de transporte y en los no especificados
+violenta,Accidente de Transporte,Ocupante de vehículo de transporte pesado lesionado por colisión con peatón o animal
+violenta,Accidente de Transporte,Ocupante de vehículo de transporte pesado lesionado por colisión con vehículo de pedal
+violenta,Accidente de Transporte,Ocupante de vehículo de transporte pesado lesionado por colisión con vehículo de motor de dos o tres ruedas
+violenta,Accidente de Transporte,Ocupante de vehículo de transporte pesado lesionado por colisión con automóvil camioneta o furgoneta
+violenta,Accidente de Transporte,Ocupante de vehículo de transporte pesado lesionado por colisión con otro vehículo de transporte pesado o autobús
+violenta,Accidente de Transporte,Ocupante de vehículo de transporte pesado lesionado por colisión con tren o vehículo de rieles
+violenta,Accidente de Transporte,Ocupante de vehículo de transporte pesado lesionado por colisión con otros vehículos sin motor
+violenta,Accidente de Transporte,Ocupante de vehículo de transporte pesado lesionado por colisión con objeto fijo o estacionado
+violenta,Accidente de Transporte,Ocupante de vehículo de transporte pesado lesionado en accidente de transporte sin colisión
+violenta,Accidente de Transporte,Ocupante de vehículo de transporte pesado lesionado en otros accidentes de transporte y en los no especificados
+violenta,Accidente de Transporte,Ocupante de autobús lesionado por colisión con peatón o animal
+violenta,Accidente de Transporte,Ocupante de autobús lesionado por colisión con vehículo de pedal
+violenta,Accidente de Transporte,Ocupante de autobús lesionado por colisión con vehículo de motor de dos o tres ruedas
+violenta,Accidente de Transporte,Ocupante de autobús lesionado por colisión con automóvil camioneta o furgoneta
+violenta,Accidente de Transporte,Ocupante de autobús lesionado por colisión con vehículo de transporte pesado o autobús
+violenta,Accidente de Transporte,Ocupante de autobús lesionado por colisión con tren o vehículo de rieles
+violenta,Accidente de Transporte,Ocupante de autobús lesionado por colisión con otros vehículos sin motor
+violenta,Accidente de Transporte,Ocupante de autobús lesionado por colisión con objeto fijo o estacionado
+violenta,Accidente de Transporte,Ocupante de autobús lesionado en accidente de transporte sin colisión
+violenta,Accidente de Transporte,Ocupante de autobús lesionado en otros accidentes de transporte y en los no especificados
+violenta,Accidente de Transporte,Jinete u ocupante de vehículo de tracción animal lesionado en accidente de transporte
+violenta,Accidente de Transporte,Ocupante de tren o vehículo de rieles lesionado en accidente de transporte
+violenta,Accidente de Transporte,Ocupante de tranvía lesionado en accidente de transporte
+violenta,Accidente de Transporte,Ocupante de vehículo especial (de motor) para uso principalmente en plantas industriales lesionado en accidente de transporte
+violenta,Accidente de Transporte,Ocupante de vehículo especial (de motor) para uso principalmente en agricultura lesionado en accidente de transporte
+violenta,Accidente de Transporte,Ocupante de vehículo especial (de motor) para construcción lesionado en accidente de transporte
+violenta,Accidente de Transporte,Ocupante de vehículo especial para todo terreno o de otro vehículo de motor para uso fuera de la carretera lesionado en accidente de transporte
+violenta,Accidente de Transporte,Accidente de tránsito de tipo especificado pero donde se desconoce el modo de transporte de la víctima
+violenta,Accidente de Transporte,Accidente no de tránsito de tipo especificado pero donde se desconoce el modo de transporte de la víctima
+violenta,Accidente de Transporte,Accidente de vehículo de motor o sin motor tipo de vehículo no especificado
+violenta,Accidente de Transporte,Accidente de embarcación que causa ahogamiento y sumersión
+violenta,Accidente de Transporte,Accidente de embarcación que causa otros tipos de traumatismo
+violenta,Accidente de Transporte,Ahogamiento y sumersión relacionados con transporte por agua sin accidente a la embarcación
+violenta,Accidente de Transporte,Accidente en una embarcación sin accidente a la embarcación que no causa ahogamiento o sumersión
+violenta,Accidente de Transporte,Otros accidentes de transporte por agua y los no especificados
+violenta,Accidente de Transporte,Accidente de aeronave de motor con ocupante lesionado
+violenta,Accidente de Transporte,Accidente de aeronave sin motor con ocupante lesionado
+violenta,Accidente de Transporte,Otros accidentes de transporte aéreo especificados
+violenta,Accidente de Transporte,Otros accidentes de transporte especificados
+violenta,Accidente de Transporte,Accidente de transporte no especificado
+violenta,Contacto Traumatico con otra Persona ,Aporreo golpe mordedura patada rasguño o torcedura infligidos por otra persona
+violenta,Contacto Traumatico con otra Persona ,Choque o empellón contra otra persona
+violenta,Contacto Traumatico con otra Persona ,Persona aplastada empujada o pisoteada por una multitud o estampida humana
+violenta,"Ataque de Animal, Insecto o Planta no venenoso",Mordedura de rata
+violenta,"Ataque de Animal, Insecto o Planta no venenoso",Mordedura o ataque de perro
+violenta,"Ataque de Animal, Insecto o Planta no venenoso",Mordedura o ataque de otros mamíferos
+violenta,"Ataque de Animal, Insecto o Planta no venenoso",Contacto traumático con animales marinos
+violenta,"Ataque de Animal, Insecto o Planta no venenoso",Mordedura o picadura de insectos y otros artrópodos no venenosos
+violenta,"Ataque de Animal, Insecto o Planta no venenoso",Mordedura o ataque de cocodrilo o caimán
+violenta,"Ataque de Animal, Insecto o Planta no venenoso",Mordedura o aplastamiento por otros reptiles
+violenta,"Ataque de Animal, Insecto o Planta no venenoso",Contacto traumático con aguijones espinas u hojas cortantes de plantas
+violenta,Arma de Fuego,Disparo de arma corta
+violenta,Arma de Fuego,Disparo de rifle escopeta y arma larga
+violenta,Arma de Fuego,Disparo de otras armas de fuego y las no especificadas
+violenta,Explosion,Explosión y rotura de caldera
+violenta,Explosion,Explosión y rotura de cilindro con gas
+violenta,Explosion,Explosión y rotura de neumático tubo o manguera de goma presurizada
+violenta,Explosion,Explosión y rotura de otros dispositivos presurizados especificado
+violenta,Explosion,Explosión de fueros artificiales
+violenta,Explosion,Explosión de otros materiales
+violenta,Contacto Traumatico con un Objeto,Golpe por objeto arrojado proyectado o que cae
+violenta,Contacto Traumatico con un Objeto,Golpe contra o golpeado por equipo para deportes
+violenta,Contacto Traumatico con un Objeto,Golpe contra o golpeado por otros objetos
+violenta,Contacto Traumatico con un Objeto,Atrapado aplastado trabado o apretado en o entre objetos
+violenta,Contacto Traumatico con un Objeto,Contacto traumático con dispositivos de elevación o transmisión no clasificado en otra parte
+violenta,Contacto Traumatico con un Objeto,Contacto traumático con vidrio cortante
+violenta,Contacto Traumatico con un Objeto,Contacto traumático con cuchillo espada daga o puñal
+violenta,Contacto Traumatico con un Objeto,Contacto traumático con herramientas manuales sin motor
+violenta,Contacto Traumatico con un Objeto,Contacto traumático con cortadora de césped con motor
+violenta,Contacto Traumatico con un Objeto,Contacto traumático con otras herramientas manuales y artefactos del hogar con motor
+violenta,Contacto Traumatico con un Objeto,Contacto traumático con maquinaria agrícola
+violenta,Contacto Traumatico con un Objeto,Contacto traumático con otras maquinarias y las no especificadas
+violenta,Contacto Traumatico con un Objeto,Cuerpo extraño que penetra por el ojo u orificio natural
+violenta,Contacto Traumatico con un Objeto,Cuerpo extraño que penetra a través de la piel
+violenta,Contacto Traumatico con un Objeto,Contacto traumático con aguja hipodérmica
+violenta,Ahogamiento y Sumersion,Ahogamiento y sumersión mientras se está en la bañera
+violenta,Ahogamiento y Sumersion,Ahogamiento y sumersión consecutivos a caída en la bañera
+violenta,Ahogamiento y Sumersion,Ahogamiento y sumersión mientras se está en una piscina
+violenta,Ahogamiento y Sumersion,Ahogamiento y sumersión consecutivos a caída en una piscina
+violenta,Ahogamiento y Sumersion,Ahogamiento y sumersión mientras se está en aguas naturales
+violenta,Ahogamiento y Sumersion,Ahogamiento y sumersión posterior a caída en aguas naturales
+violenta,Ahogamiento y Sumersion,Otros ahogamientos y sumersiones especificados
+violenta,Ahogamiento y Sumersion,Ahogamiento y sumersión no especificados
+violenta,Estrangulamiento Accidental,Sofocación y estrangulamiento accidental en la cama
+violenta,Estrangulamiento Accidental,Otros estrangulamientos y ahorcamientos accidentales
+violenta,Obstruccion Respiratoria,Obstrucción de la respiración debida a hundimiento caída de tierra u otras sustancias
+violenta,Obstruccion Respiratoria,Inhalación de contenidos gástricos
+violenta,Obstruccion Respiratoria,Inhalación e ingestión de alimento que causa obstrucción de las vías respiratorias
+violenta,Obstruccion Respiratoria,Inhalación e ingestión de otros objetos que causan obstrucción de las vías respiratorias
+violenta,Obstruccion Respiratoria,Confinado o atrapado en un ambiente con bajo contenido de oxígeno
+violenta,Obstruccion Respiratoria,Otras obstrucciones especificadas de la respiración
+violenta,Obstruccion Respiratoria,Obstrucción no especificada de la respiración
+violenta,Exposicion,Exposición a chorro de alta presión
+violenta,Exposicion,Exposición al ruido
+violenta,Exposicion,Exposición a vibraciones
+violenta,Exposicion,Exposición a otras fuerzas mecánicas inanimadas y las no especificadas
+violenta,Exposicion,Exposición a líneas de transmisión eléctrica
+violenta,Exposicion,Exposición a otras corrientes eléctricas especificadas
+violenta,Exposicion,Exposición a corriente eléctrica no especificada
+violenta,Exposicion,Exposición a radiación ionizante
+violenta,Exposicion,Exposición a fuente de luz visible y ultravioleta de origen artificial
+violenta,Exposicion,Exposición a otros tipos de radiación no ionizante
+violenta,Exposicion,Exposición a radiación de tipo no especificado
+violenta,Exposicion,Exposición a calor excesivo de origen artificial
+violenta,Exposicion,Exposición a frío excesivo de origen artificial
+violenta,Exposicion,Exposición a presión de aire alta y baja y a cambios en la presión del aire
+violenta,Exposicion,Exposición a otros factores ambientales y a los no especificados de origen artificial
+violenta,Exposicion,Exposición a fuego no controlado en edificio u otra construcción
+violenta,Exposicion,Exposición a fuego no controlado en lugar que no es edificio u otra construcción
+violenta,Exposicion,Exposición a fuego controlado en edificio u otra construcción
+violenta,Exposicion,Exposición a fuego controlado en lugar que no es edificio u otra construcción
+violenta,Exposicion,Exposición a ignición de material altamente inflamable
+violenta,Exposicion,Exposición a ignición o fusión de ropas de dormir
+violenta,Exposicion,Exposición a ignición o fusión de otras ropas y accesorios
+violenta,Exposicion,Exposición a otros humos fuegos o llamas especificados
+violenta,Exposicion,Exposición a humos fuegos o llamas no especificados
+violenta,Exposicion,Exposición al calor natural excesivo
+violenta,Exposicion,Exposición al frío natural excesivo
+violenta,Exposicion,Exposición a rayos solares
+violenta,Exposicion,Exposición a otras fuerzas de la naturaleza y las no especificadas
+violenta,Exposicion,Exposición a otros factores especificados
+violenta,Exposicion,Exposición a factores no especificados
+violenta,Contacto con Elementos Calientes,Contacto con bebidas alimentos grasas y aceites para cocinar calientes
+violenta,Contacto con Elementos Calientes,Contacto con agua caliente corriente
+violenta,Contacto con Elementos Calientes,Contacto con otros líquidos calientes
+violenta,Contacto con Elementos Calientes,Contacto con vapor de agua y otros vapores calientes
+violenta,Contacto con Elementos Calientes,Contacto con aire y gases calientes
+violenta,Contacto con Elementos Calientes,Contacto con utensilios domésticos calientes
+violenta,Contacto con Elementos Calientes,Contacto con radiadores cañerías y artefactos para calefacción calientes
+violenta,Contacto con Elementos Calientes,Contacto con máquinas motores y herramientas calientes
+violenta,Contacto con Elementos Calientes,Contacto con otros metales calientes
+violenta,Contacto con Elementos Calientes,Contacto con otras sustancias calientes y las no especificadas
+violenta,"Contacto Traumatico con Animal, Insecto o Planta Venenoso",Contacto traumático con serpientes y lagartos venenosos
+violenta,"Contacto Traumatico con Animal, Insecto o Planta Venenoso",Contacto traumático con arañas venenosas
+violenta,"Contacto Traumatico con Animal, Insecto o Planta Venenoso",Contacto traumático con escorpión
+violenta,"Contacto Traumatico con Animal, Insecto o Planta Venenoso",Contacto traumático con avispones avispas y abejas
+violenta,"Contacto Traumatico con Animal, Insecto o Planta Venenoso",Contacto traumático con centípodos y miriápodos venenosos (tropicales)
+violenta,"Contacto Traumatico con Animal, Insecto o Planta Venenoso",Contacto traumático con otros artrópodos venenosos
+violenta,"Contacto Traumatico con Animal, Insecto o Planta Venenoso",Contacto traumático con animales y plantas marinas venenosos
+violenta,"Contacto Traumatico con Animal, Insecto o Planta Venenoso",Contacto traumático con otros animales venenosos especificados
+violenta,"Contacto Traumatico con Animal, Insecto o Planta Venenoso",Contacto traumático con otras plantas venenosas especificadas
+violenta,"Contacto Traumatico con Animal, Insecto o Planta Venenoso",Contacto traumático con animales y plantas venenosos no especificados
+violenta,Envenenamiento Accidental,Envenenamiento accidental por y exposición a analgésicos no narcóticos antipiréticos y antirreumáticos
+violenta,Envenenamiento Accidental,Envenenamiento accidental por y exposición a drogas antiepilépticas sedantes hipnóticas antiparkinsonianas y psicotrópicas no clasificadas en otra parte
+violenta,Envenenamiento Accidental,Envenenamiento accidental por y exposición a narcóticos y psicodislépticos [alucinógenos] no clasificados en otra parte
+violenta,Envenenamiento Accidental,Envenenamiento accidental por y exposición a otras drogas que actúan sobre el sistema nervioso autónomo
+violenta,Envenenamiento Accidental,Envenenamiento accidental por y exposición a otras drogas medicamentos y sustancias biológicas y los no especificados
+violenta,Envenenamiento Accidental,Envenenamiento accidental por y exposición al alcohol
+violenta,Envenenamiento Accidental,Envenenamiento accidental por y exposición a disolventes orgánicos e hidrocarburos halogenados y sus vapores
+violenta,Envenenamiento Accidental,Envenenamiento accidental por y exposición a otros gases y vapores
+violenta,Envenenamiento Accidental,Envenenamiento accidental por y exposición a plaguicidas
+violenta,Envenenamiento Accidental,Envenenamiento accidental por y exposición a otros productos químicos y sustancias nocivas y los no especificados
+violenta,Desastres Naturales,Víctima de rayo
+violenta,Desastres Naturales,Víctima de terremoto
+violenta,Desastres Naturales,Víctima de erupción volcánica
+violenta,Desastres Naturales,Víctima de avalancha derrumbe y otros movimientos de tierra
+violenta,Desastres Naturales,Víctima de tormenta cataclísmica
+violenta,Desastres Naturales,Víctima de inundación
+violenta,Privacion,Asfixia
+violenta,Privacion,Efectos de otras privaciones
+violenta,Privacion,Privación de alimentos
+violenta,Privacion,Privación de agua
+violenta,Privacion,Privación no especificada
+violenta,Envenenamiento Autoinflingido,Envenenamiento autoinfligido intencionalmente por y exposición a analgésicos no narcóticos antipiréticos y antirreumáticos
+violenta,Envenenamiento Autoinflingido,Envenenamiento autoinfligido intencionalmente por y exposición a drogas antiepilépticas sedantes hipnóticas antiparkinsonianas y psicotrópicas no clasificadas en otra parte
+violenta,Envenenamiento Autoinflingido,Envenenamiento autoinfligido intencionalmente por y exposición a narcóticos y psicodislépticos [alucinógenos] no clasificados en otra parte
+violenta,Envenenamiento Autoinflingido,Envenenamiento autoinfligido intencionalmente por y exposición a otras drogas que actúan sobre el sistema nervioso autónomo
+violenta,Envenenamiento Autoinflingido,Envenenamiento autoinfligido intencionalmente por y exposición a otras drogas medicamentos y sustancias biológicas y los no especificados
+violenta,Envenenamiento Autoinflingido,Envenenamiento autoinfligido intencionalmente por y exposición al alcohol
+violenta,Envenenamiento Autoinflingido,Envenenamiento autoinfligido intencionalmente por y exposición a disolventes orgánicos e hidrocarburos halogenados y sus vapores
+violenta,Envenenamiento Autoinflingido,Envenenamiento autoinfligido intencionalmente por y exposición a otros gases y vapores
+violenta,Envenenamiento Autoinflingido,Envenenamiento autoinfligido intencionalmente por y exposición a plaguicidas
+violenta,Envenenamiento Autoinflingido,Envenenamiento autoinfligido intencionalmente por y exposición a otros productos químicos y sustancias nocivas y los no especificados
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente por ahorcamiento estrangulamiento o sofocación
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente por ahogamiento y sumersión
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente por disparo de arma corta
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente por disparo de rifle escopeta y arma larga
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente por disparo de otras armas de fuego y las no especificadas
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente por material explosivo
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente por humo fuego y llamas
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente por vapor de agua vapores y objetos calientes
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente por objeto cortante
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente por objeto romo o sin filo
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente al saltar desde un lugar elevado
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente por arrojarse o colocarse delante de objeto en movimiento
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente por colisión de vehículo de motor
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente por otros medios especificados
+violenta,Lesion Autoinflingida,Lesión autoinfligida intencionalmente por medios no especificados
+violenta,Agresion,Agresión con drogas medicamentos y sustancias biológicas
+violenta,Agresion,Agresión con sustancia corrosiva
+violenta,Agresion,Agresión con plaguicidas
+violenta,Agresion,Agresión con gases y vapores
+violenta,Agresion,Agresión con otros productos químicos y sustancias nocivas especificadas
+violenta,Agresion,Agresión con productos químicos y sustancias nocivas no especificadas
+violenta,Agresion,Agresión por ahorcamiento estrangulamiento y sofocación
+violenta,Agresion,Agresión por ahogamiento y sumersión
+violenta,Agresion,Agresión con disparo de arma corta
+violenta,Agresion,Agresión con disparo de rifle escopeta y arma larga
+violenta,Agresion,Agresión con disparo de otras armas de fuego y las no especificadas
+violenta,Agresion,Agresión con material explosivo
+violenta,Agresion,Agresión con humo fuego y llamas
+violenta,Agresion,Agresión con vapor de agua vapores y objetos calientes
+violenta,Agresion,Agresión con objeto cortante
+violenta,Agresion,Agresión con objeto romo o sin filo
+violenta,Agresion,Agresión por empujón desde un lugar elevado
+violenta,Agresion,Agresión por empujar o colocar a la víctima delante de objeto en movimiento
+violenta,Agresion,Agresión por colisión de vehículo de motor
+violenta,Agresion,Agresión con fuerza corporal
+violenta,Agresion,Agresión sexual con fuerza corporal
+violenta,Agresion,Negligencia y abandono
+violenta,Agresion,Otros maltratos
+violenta,Agresion,Agresión por otros medios especificados
+violenta,Agresion,Agresión por medios no especificados
+violenta,Envenenamiento de intencion no determinada,Envenenamiento por y exposición a analgésicos no narcóticos antipiréticos y antirreumáticos de intención no determinada
+violenta,Envenenamiento de intencion no determinada,Envenenamiento por y exposición a drogas antiepilépticas sedantes hipnóticas antiparkinsonianas y psicotrópicas no clasificadas en otra parte de intención no determinada
+violenta,Envenenamiento de intencion no determinada,Envenenamiento por y exposición a narcóticos y psicodislépticos [alucinógenos] no clasificados en otra parte de intención no determinada
+violenta,Envenenamiento de intencion no determinada,Envenenamiento por y exposición a otras drogas que actúan sobre el sistema nervioso autónomo de intención no determinada
+violenta,Envenenamiento de intencion no determinada,Envenenamiento por y exposición a otras drogas medicamentos y sustancias biológicas y las no especificadas de intención no determinada
+violenta,Envenenamiento de intencion no determinada,Envenenamiento por y exposición al alcohol de intención no determinada
+violenta,Envenenamiento de intencion no determinada,Envenenamiento por y exposición a disolventes orgánicos e hidrocarburos halogenados y sus vapores de intención no determinada
+violenta,Envenenamiento de intencion no determinada,Envenenamiento por y  exposición a otros gases y vapores de intención no determinada
+violenta,Envenenamiento de intencion no determinada,Envenenamiento por y exposición a plaguicidas de intención no determinada
+violenta,Envenenamiento de intencion no determinada,Envenenamiento por y exposición a otros productos químicos y sustancias nocivas y los no especificados de intención no determinada
+violenta,Acto violento de intencion no determinada,Ahorcamiento estrangulamiento y sofocación de intención no determinada
+violenta,Acto violento de intencion no determinada,Ahogamiento y sumersión de intención no determinada
+violenta,Acto violento de intencion no determinada,Disparo de arma corta de intención no determinada
+violenta,Acto violento de intencion no determinada,Disparo de rifle escopeta y arma larga de intención no determinada
+violenta,Acto violento de intencion no determinada,Disparo de otras armas de fuego y las no especificadas de intención no determinada
+violenta,Acto violento de intencion no determinada,Contacto traumático con material explosivo de intención no determinada
+violenta,Acto violento de intencion no determinada,Exposición al humo fuego y llamas de intención no determinada
+violenta,Acto violento de intencion no determinada,Contacto con vapor de agua vapores y objetos calientes de intención no determinada
+violenta,Acto violento de intencion no determinada,Contacto traumático con objeto cortante de intención no determinada
+violenta,Acto violento de intencion no determinada,Contacto traumático con objeto romo o sin filo de intención no determinada
+violenta,Acto violento de intencion no determinada,Caída salto o empujón desde lugar elevado de intención no determinada
+violenta,Acto violento de intencion no determinada,Caída permanencia o carrera delante o hacia objeto en movimiento de intención no determinada
+violenta,Acto violento de intencion no determinada,Colisión de vehículo de motor de intención no determinada
+violenta,Acto violento de intencion no determinada,Otros eventos especificados de intención no determinada
+violenta,Acto violento de intencion no determinada,Evento no especificado de intención no determinada
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Corte punción perforación o hemorragia no intencional durante la atención médica y quirúrgica
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Objeto extraño dejado accidentalmente en el cuerpo durante la atención médica y quirúrgica
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Fallas en la esterilización durante la atención médica y quirúrgica
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Falla en la dosificación durante la atención médica y quirúrgica
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Medicamentos o sustancias biológicas contaminados
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Otros incidentes durante la atención médica y quirúrgica
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,No administración de la atención médica y quirúrgica
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Incidentes no especificados durante la atención médica y quirúrgica
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Dispositivos de anestesiología asociados con incidentes adversos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Dispositivos cardiovasculares asociados con incidentes adversos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Dispositivos otorrinolaringológicos asociados con incidentes adversos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Dispositivos de gastroenterología y urología asociados con incidentes adversos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Dispositivos para uso hospitalario general y personal asociados con incidentes adversos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Dispositivos neurológicos asociados con incidentes adversos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Dispositivos ginecológicos y obstétricos asociados con incidentes adversos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Dispositivos oftálmicos asociados con incidentes adversos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Aparatos radiológicos asociados con incidentes adversos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Dispositivos ortopédicos asociados con incidentes adversos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Aparatos de medicina física asociados con incidentes adversos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Dispositivos de cirugía general y plástica asociados con incidentes adversos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Otros dispositivos médicos y los no especificados asociados con incidentes adversos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Cirugía y otros procedimientos quirúrgicos como la causa de reacción anormal del paciente o de complicación posterior sin mención de incidente en el momento de efectuar el procedimiento
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Otros procedimientos médicos como la causa de reacción anormal del paciente o de complicación posterior sin mención de incidente en el momento de efectuar el procedimiento
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Necesidad de inmunización contra enfermedad bacteriana única
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Necesidad de inmunización contra ciertas enfermedades virales
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Necesidad de inmunización contra otras enfermedades virales únicas
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Necesidad de inmunización contra otras enfermedades infecciosas únicas
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Necesidad de inmunización contra combinaciones de enfermedades infecciosas
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Inmunización no realizada
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Necesidad de otras medidas profilácticas
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Atención para la anticoncepción
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Atención para la procreación
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Examen y prueba del embarazo
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Estado de embarazo incidental
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Supervisión de embarazo normal
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Supervisión de embarazo de alto riesgo
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Pesquisas prenatales
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Producto del parto
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Nacidos vivos según lugar de nacimiento
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Examen y atención del postparto
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Cirugía profiláctica
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Procedimientos para otros propósitos que no sean los de mejorar el estado de salud
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Cuidados posteriores a la cirugía plástica
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Atención de orificios artificiales
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Prueba y ajuste de dispositivos protésicos externos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Asistencia y ajuste de dispositivos implantados
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Prueba y ajuste de otros dispositivos
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Otros cuidados posteriores a la ortopedia
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Otros cuidados posteriores a la cirugía
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Cuidados relativos al procedimiento de diálisis
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Atención por el uso de procedimientos de rehabilitación
+violenta,Malapraxis o Procedmiento Medico con efectos adversos,Otra atención médica
+violenta,Efectos Adversos,Efectos adversos de antibióticos sistémicos
+violenta,Efectos Adversos,Efectos adversos de otros antiinfecciosos y antiparasitarios sistémicos
+violenta,Efectos Adversos,Efectos adversos de hormonas y sus sustitutos sintéticos y antagonistas no clasificados en otra parte
+violenta,Efectos Adversos,Efectos adversos de agentes sistémicos primarios
+violenta,Efectos Adversos,Efectos adversos de agentes que afectan primariamente los constituyentes de la sangre
+violenta,Efectos Adversos,Efectos adversos de drogas analgésicas antipiréticas y antiinflamatorias
+violenta,Efectos Adversos,Efectos adversos de drogas antiepilépticas y antiparkinsonianas
+violenta,Efectos Adversos,Efectos adversos de drogas sedantes hipnóticas y ansiolíticas
+violenta,Efectos Adversos,Efectos adversos de gases anestésicos y terapéuticos
+violenta,Efectos Adversos,Efectos adversos de drogas psicotrópicas no especificadas en otra parte
+violenta,Efectos Adversos,Efectos adversos de estimulantes del sistema nervioso central no clasificados en otra parte
+violenta,Efectos Adversos,Efectos adversos de drogas que afectan primariamente el sistema nervioso autónomo
+violenta,Efectos Adversos,Efectos adversos de agentes que afectan primariamente el sistema cardiovascular
+violenta,Efectos Adversos,Efectos adversos de agentes que afectan primariamente el sistema gastrointestinal
+violenta,Efectos Adversos,Efectos adversos de agentes que afectan primariamente el equilibrio hídrico y el metabolismo mineral y del ácido úrico
+violenta,Efectos Adversos,Efectos adversos de agentes que actúan primariamente sobre los músculos lisos y estriados y sobre el sistema respiratorio
+violenta,Efectos Adversos,Efectos adversos de agentes tópicos que afectan primariamente la piel y las membranas mucosas y drogas oftalmológicas otorrinolaringológicas y dentales
+violenta,Efectos Adversos,Efectos adversos de otras drogas y medicamentos y los no especificados
+violenta,Efectos Adversos,Efectos adversos de vacunas bacterianas
+violenta,Efectos Adversos,Efectos adversos de otras vacunas y sustancias biológicas y las no especificadas
+violenta,Secuelas,Secuelas de traumatismos de la cabeza
+violenta,Secuelas,Secuelas de traumatismos del cuello y del tronco
+violenta,Secuelas,Secuelas de traumatismos de miembro superior
+violenta,Secuelas,Secuelas de traumatismos de miembro inferior
+violenta,Secuelas,Secuelas de traumatismos que afectan múltiples regiones del cuerpo y las no especificadas
+violenta,Secuelas,Secuelas de quemaduras corrosiones y congelamientos
+violenta,Secuelas,Secuelas de envenenamientos por drogas medicamentos y sustancias biológicas
+violenta,Secuelas,Secuelas de efectos  tóxicos de sustancias de procedencia principalmente no medicinal
+violenta,Secuelas,Secuelas de otros efectos y los no especificados de causas externas
+violenta,Secuelas,Secuelas de accidentes de transporte
+violenta,Secuelas,Secuelas de otros accidentes
+violenta,Secuelas,Secuelas de lesiones autoinfligidas intencionalmente agresiones y eventos de intención no determinada
+violenta,Secuelas,Secuelas con atención médica y quirúrgica como causa externa
+violenta,Secuelas,Secuelas de otras causas externas
+violenta,"Examen, Observacion o Control Medico",Examen general e investigación de personas sin quejas o sin diagnóstico informado
+violenta,"Examen, Observacion o Control Medico",Otros exámenes especiales e investigaciones en personas sin quejas o sin diagnóstico informado
+violenta,"Examen, Observacion o Control Medico",Exámenes y contactos para fines administrativos
+violenta,"Examen, Observacion o Control Medico",Observación y evaluación médicas por sospecha de enfermedades y afecciones
+violenta,"Examen, Observacion o Control Medico",Examen y observación por otras razones
+violenta,"Examen, Observacion o Control Medico",Examen de seguimiento consecutivo al tratamiento por tumor maligno
+violenta,"Examen, Observacion o Control Medico",Examen de seguimiento consecutivo a tratamiento por otras afecciones diferentes a tumores malignos
+violenta,"Examen, Observacion o Control Medico",Control general de salud de rutina de subpoblaciones definidas
+violenta,"Examen, Observacion o Control Medico",Examen de pesquisa especial para enfermedades infecciosas y parasitarias
+violenta,"Examen, Observacion o Control Medico",Examen de pesquisa especial para tumores
+violenta,"Examen, Observacion o Control Medico",Examen de pesquisa especial para otras enfermedades y trastornos
+violenta,Alcohol,Evidencia de alcoholismo determinada por el nivel de alcohol en la sangre
+violenta,Alcohol,Evidencia de alcoholismo determinada por el nivel de intoxicación
+violenta,Afecciones de Entorno,Afección nosocomial
+violenta,Afecciones de Entorno,Afección relacionada con el trabajo
+violenta,Afecciones de Entorno,Afección relacionada con la contaminación ambiental
+violenta,Afecciones de Entorno,Afección relacionada con el estilo de vida
+violenta,Otras causas violentas,Intervención legal
+violenta,Otras causas violentas,Operaciones de guerra
+violenta,Otras causas violentas,Donantes de órganos y tejidos
+violenta,Otras causas violentas,Persona en contacto con los servicios de salud para procedimientos específicos no realizados
+violenta,Otras causas violentas,Convalecencia
+violenta,Otras causas violentas,Problemas relacionados con la educación y la alfabetización
+violenta,Otras causas violentas,Problemas relacionados con el empleo y el desempleo
+violenta,Otras causas violentas,Exposición a factores de riesgo ocupacional
+violenta,Otras causas violentas,Problemas relacionados con el ambiente físico
+violenta,Otras causas violentas,Problemas relacionados con la vivienda y las circunstancias económicas
+violenta,Otras causas violentas,Problemas relacionados con el ambiente social
+violenta,Otras causas violentas,Problemas relacionados con hechos negativos en la niñez
+violenta,Otras causas violentas,Otros problemas relacionados con la crianza del niño
+violenta,Otras causas violentas,Otros problemas relacionados con el grupo primario de apoyo inclusive circunstancias familiares
+violenta,Otras causas violentas,Problemas relacionados con ciertas circunstancias psicosociales
+violenta,Otras causas violentas,Problemas relacionados con otras circunstancias psicosociales
+violenta,Otras causas violentas,Consulta relacionada con actitud conducta u orientación sexual
+violenta,Otras causas violentas,Personas en contacto con los servicios de salud por otras consultas y consejos médicos no clasificados en otra parte
+violenta,Otras causas violentas,Problemas relacionados con el estilo de vida
+violenta,Otras causas violentas,Problemas relacionados con dificultades con el modo de vida
+violenta,Otras causas violentas,Problemas relacionados con dependencia del prestador de servicios
+violenta,Otras causas violentas,Problemas relacionados con facilidades de atención médica u otros servicios de salud
+violenta,Otras causas violentas,Personas en contacto con los servicios de salud por otras circunstancias
+violenta,Otras causas violentas,Historia familiar de tumor maligno
+violenta,Otras causas violentas,Historia familiar de trastornos mentales y del comportamiento
+violenta,Otras causas violentas,Historia familiar de ciertas discapacidades y enfermedades crónicas incapacitantes
+violenta,Otras causas violentas,Historia familiar de otros trastornos específicos
+violenta,Otras causas violentas,Historia familiar de otras afecciones
+violenta,Otras causas violentas,Historia personal de tumor maligno
+violenta,Otras causas violentas,Historia personal de algunas otras enfermedades
+violenta,Otras causas violentas,Historia personal de otras enfermedades y afecciones
+violenta,Otras causas violentas,Historia personal de alergia a drogas medicamentos y sustancias biológicas
+violenta,Otras causas violentas,Ausencia adquirida de miembros
+violenta,Otras causas violentas,Ausencia adquirida de órganos no clasificada en otra parte
+violenta,Otras causas violentas,Historia personal de factores de riesgo no clasificados en otra parte
+violenta,Otras causas violentas,Historia personal de tratamiento médico
+violenta,Otras causas violentas,Aberturas artificiales
+violenta,Otras causas violentas,Órganos y tejidos trasplantados
+violenta,Otras causas violentas,Presencia de implantes e injertos cardiovasculares
+violenta,Otras causas violentas,Presencia de otros implantes funcionales
+violenta,Otras causas violentas,Presencia de otros dispositivos
+violenta,Otras causas violentas,Otros estados postquirúrgicos
+violenta,Otras causas violentas,Dependencia de máquinas y dispositivos capacitantes no clasificada en otra parte

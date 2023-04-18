@@ -1,0 +1,110 @@
+
+
+DATA WAREHOUSE
+--------------
+
+Que es? --> Conjunto de datos integrados orientados a una materia, que van cambiando en el tiempo y no son transitorios (son definitivos). Procesos contunuos que mezclan datos de varias fuentes. 
+
+Para que? --> Analizar informacion y tomar decisiones. Esta decision serviria, por ejemplo, para tomar ventaja con respecto a la competencia. Ej> Administracion de una organizacion.
+
+Que hace? --> Optimiza consultas. (mas agil, simple y rapido).
+
+Diferencias con TDB --> .Orientado hacia un tema definido por el usuario. Ej> Ver rendimientos del personal. Ver como estan las ventas por region.
+                        .Administra grandes cantidades de informacion. (Posiblemente almacenadas en diferentes medio de almacenamiento).
+                        .Tiene distintos esquemas de BD. No responden a una estructura normalizada.
+                        .Condensa y agrega informacion (resumir o agregar).
+                        .Integra informacion de distintas fuentes. (puede tomar datos del exterior, no genera todos sus datos).
+                        .Es tan complejo como nosotros queramos.
+
+Esquema de DW --> ETL --> Extrae informacion de las distintas fuentes externas, las transforma y las carga en el DW. [Extract Transform Load]
+
+Arquitectura de referencia -->  .Fuente de datos: de donde estamos trayendo los datos. Puede ser interno o externo.
+                                .Construcion del DW.
+                                .Mercado de Datos (Data Mart): DWs mas pequenos que alimentan a un DW general.
+                                .Acceso y uso del DW: Productos en el cual ya accedemos al DW. Productos que hacen uso del DW.
+
+Estructura descentralizada de un Data Mart --> Varios DW que se alimentas de distintas fuentes. Ej> DW Marketing, DW Riesgos, DW Financiero, DW RR. HH.
+Estructura centralizada de un Data Mart --> Un DW general se compone de varios DW mas pequenos. Ej> DW Corporativo (DW Marketing, DW Riesgos, DW Financiero, DW RR. HH.).
+
+Sistemas OLPT + OLAP --> FUENTE DE DATOS >>>(extraccion, tranformacion y carga)>>> DW >>> HERRAMIENTA PARA HACER CONSULTAS >>> USUARIOS.
+
+Modelado del DW --> 2 tipos de esquemas: Estrella y Copo de Nieve.
+
+Componentes --> Tabla de hechos: Cantidades (valores que se pueden sumar, totalizar, promediar, etc...) e Indices (apuntan a las dimensiones). Ej> VENTAS.
+            --> Tabla de dimensiones: Tienen informacion de la dimension. Cada dimension tiene un ID que va aestar en relacion con la tabla de hecho. Ej> Tabla Productos va a tener los datos de un producto.
+
+                          Cliente
+                             |
+            Productos ---- VENTAS ---- Tiempo
+                             |
+                           Canal
+
+           La relacion Producto-VENTAS me va a decir que esa cantidad se refiere a las ventas de ese producto.
+
+Esquema Estrella --> En el centro va la tabla de hechos (contiene solo datos numericos y los vinculos con las dimensiones). Las tablas de dimension no se ensamblan entre si, solo con la tabla de hechos.
+
+Esquema Copo de Nieve --> De las dimensiones pueden salir otros vincluos. Ej> Vincluo la dimension Producto a una llamada Categoria (Ropa vinculada a Verano. Quiere decir que se va a referir a las ropa de verano. Se vinculan mediante el ID de la categoria.).
+                          Esto reduce el almacenamieto en disco => se mejora la performance de las consultas. Elimina la redundancia. Los datos de las dimensiones se agrupan en multiples tablas en lugar de una sola grande.
+
+Modelado de consultas --> A traves de las consultas que se podrian hacer, identifico las dimensiones que necesito.
+                          Ej> Consulta: ventas regionales por trimestre. Tabla de hechos: VENTAS. Dimensiones: Region (pq dice regionales) y Tiempo (pq dice por trimestre).
+
+Modelo Starnet --> Sirve para identificar la granularidad (que tan detallado) de las dimensiones. Ej> Dimension: Geografia -> puedo tener info. a nivel de pais, de provincia y de ciudad. Esto forma una jerarquia en esa dimension.
+
+Herramienta OLAP --> Es la herramienta que me permite realizar las consultas. (Procesamiento Analitico en Linea - On Line Analytical Processing).
+                     Ve al DW como un cubo.
+                     Ej>
+                                                Region
+                             ---------------------------------------                     
+                       p    |             Argentina   Brasil  Chile
+                       r    | 
+                       o    | Producto1     212       534     254
+                       d    | Producto2     21        46      33
+                       u    | Producto3     310       321     200
+                       c    | Producto4     120       234     131
+                       t    |
+                       o    |
+
+                       Este es un ejemplo simple de 2 dimensiones: Producto y Region. Cada celda tiene las ventas. Si quiero tambien representar las dimensiones por tiempo la agrego formando el cubo.
+                                         _____________________ 
+                                   Abril/____ /_______ /_____ /|
+                                  Mayo /____ /_______ /_____ / |
+                                Junio /     /        /      /  | 
+                                     -----------------------  /|  
+                        Producto1    | 212  |  534  |  254 | / |
+                                     ---------------------- / /|
+                        Producto2    | 21   |  46   |  33  | / |
+                                     ---------------------- / /|
+                        Producto3    | 310  |  321  |  200 | / |
+                                     ---------------------- / /
+                        Producto4    | 120  |  234  |  131 | /
+                                     ______________________ /
+                                    Agentina  Brasil  Chile
+
+                        Aristas: Tiempo, Producto y Region. Entonces puedo hacer consultas de la siguiente manera: Ej> Como se venden los productos en cada region en un mes dado?
+                                                                                                                       Como es un mes dado, extraemos del cubo solo, por ejemplo, el mes de mayo.
+                                                                                                                       Quedaria asi:
+
+                                                                                                                                   _____________________
+                                                                                                                            Mayo  /______/______/______ /|
+                                                                                                                        Producto1 |      |      |      | |
+                                                                                                                                  --------------------- /|
+                                                                                                                        Producto2 |      |      |      | |
+                                                                                                                                  --------------------- /|
+                                                                                                                        Producto3 |      |      |      | |
+                                                                                                                                  --------------------- /|
+                                                                                                                        Producto4 |      |      |      | |
+                                                                                                                                  ______________________ /
+                                                                                                                                Argentina Brasil  Chile
+
+                                                                                                                    Ej> Que regiones han mejorado las ventas de un producto dado a traves del tiempo?
+                                                                                                                                     ____________________
+                                                                                                                             Abril  /______/______/______/|
+                                                                                                                             Mayo  /______/______/______/|/
+                                                                                                                           Junio  /______/______/______/|/
+                                                                                                                        Producto1 |______|______|______|/
+                                                                                                                                Argentina Brasil  Chile
+
+Modelos de Almacenamiento --> MOLAP: OLAP Multidimensional --> Calculos inmediatos al actualizar el cubo. Datos pre-calculados. Ventaja> Consultas Rapidas. Desventaja> Mayor espacio de almacenamiento.
+                          --> ROLAP: OLAP Relacional --> Los datos estan guardados en una BD Relacional. Mas detallado. Ventaja> Menos espacio de almacenamiento. Desventaja> Consultas mas lentas.
+                          --> HOLAP: OLAP Hibrido --> Detallado + Calculos. Combina ventajas de las anteriores.
